@@ -1,0 +1,127 @@
+[
+    {
+
+        "name": "Exterior",
+        "products": [
+            {
+
+                "name": "Nanolicious Wash",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+
+                "name": "Auto Body Gel",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+    {
+
+        "name": "Interior",
+        "products": [
+            {
+                "name": "Leather Love",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "Naked Glass",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+    {
+        "name": "Microfibre",
+        "products": [
+            {
+                "name": "Muffy Sponge",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "The Wash Pillow",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+    {
+        "name": "Value Packs",
+        "products": [
+            
+            {
+                "name": "The Black Box",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "Happy Ending Pack",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+        "name": "Car Care Kits",
+        "products": [
+            {
+                "name": "brand SPanking New Kit",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "Classic Fanatics Kit",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+    {
+        "name": "Detailing Tools",
+        "products": [
+            {
+                "name": "All Sorts",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "Black Apps",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+    {
+        "name": "Merchandise",
+        "products": [
+            
+            {
+                "name": "Happy Ending Tee",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "I Give Snow Jobs Tee",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    },
+    {
+        "name": "New Products",
+        "products": [
+            {
+                "name": "The Flatty Sock",
+                "size": [125, 500, 2000, 5000, 20000],
+                "price": [7.99, 22.99, 64.99, 134.99, 429.99]
+            },
+            {
+                "name": "Daniel Morcombe Snow Good",
+                "size": [500, 5000],
+                "price": [17.99, 102.99]
+            }
+        ]
+    }
+]
