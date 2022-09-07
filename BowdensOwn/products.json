@@ -83,6 +83,102 @@
                 "price": [39.99],
                 "image": ["BOFCRBIG"]
             },{
+                "name": "FINE CLAY BAR",
+                "description": "In the Bowden family we are a little bit fanatical about beautiful smooth paint. With our Fine Clay Bar you can now clean your paint regularly without concern for reducing clear coat thickness or scratching. It's the first step for getting perfect smooth paint.",
+                "size": [],
+                "price": [26.99],
+                "image": ["BOFCB"]
+            },{
+                "name": "PAINT CLEANSE AND RESTORE",
+                "description": "A non-abrasive paint care system is what we wanted all those years ago, as we got sick of the swirls and damage the polishes were creating to our beloved cars. The Paint Cleanse and Restore is the latest version of our original Auto Body Cleanser, and the biggest gun in our arsenal for deep cleaning and repairing paint, always bringing out a stunning deep shine, with no swirls! This product is a pure cleaner, so you need to finish it off with our protective Carnauba Body Wax or Lazy Wax after using it.",
+                "size": [125, 500, 5000],
+                "price": [11.99, 28.99, 179.99],
+                "image": ["BOABC125ML", "BOABC500ML", "BOABC5L"]
+            },{
+                "name": "FLASH PREP",
+                "description": "",
+                "size": [125, 500, 5000],
+                "price": [7.99, 20.99, 184.99],
+                "image": ["BOFPREP125ML", "BOFPREP500ML", "BOFPREP5L"]
+            },{
+                "name": "BEAUT BEADS PASTE WAX",
+                "description": "We hand-crafted this quality paste wax to show enthusiasts that waxes are far from dead. Developed by our in-house chemist who we tormented with 57 versions over 24 months (yep, some car resto’s are quicker), Beaut Beads is our modern Aussie take on a classic favourite, remedying many age-old paste wax issues. This wax has been created for true car fanatics who love the hands-on “romance” of using a quality paste wax and we’re super proud of the end result.",
+                "size": [],
+                "price": [159.99],
+                "image": ["BOBBW"]
+            },{
+                "name": "CARNAUBA BODY WAX ",
+                "description": "We custom blend this boutique wax for those who want the easiest to use product that delivers a stunning show car shine. No abrasives, no harsh cleaners, just a pure protective Carnauba wax. Another one we love, and by the fans we get after they use it, you will as well.",
+                "size": [125, 500, 5000],
+                "price": [12.99, 31.99, 189.99],
+                "image": ["BOABW"]
+            },{
+                "name": "LAZY WAX",
+                "description": "We love Carnauba wax for the lovely warm glow and extra depth it creates, something no synthetic product has ever been able to match. So while our chemists were creating the protective synthetic Fully Slick spray, we also had them working on this naturally based spray wax. If you're after a genuine spray wax, you cannot go past this quality product.",
+                "size": [125, 770, 5000],
+                "price": [11.99, 30.99, 150.99],
+                "image": ["BOLAZY125ML", "BOLAZY770ML", "BOLAZY5L"]
+            },{
+                "name": "BEAD MACHINE",
+                "description": "This fantastic super hydrophobic spray is the most protective product in our range. Apply it to a dry surface to get awesome protection as well as a stunning shine. It also creates pretty damn sweet super hydrophobic water beading and sheeting.",
+                "size": [125, 500, 5000],
+                "price": [12.99, 33.99, 304.99],
+                "image": ["BOMACHINE125ML", "BOMACHINE500ML", "BOMACHINE5L"]
+            },{
+                "name": "FULLY SLICK 2",
+                "description": "Our original spray sealant that's become famous with car enthusiasts due to the beautiful slick feeling surface it leaves, now with an updated formula that's slicker, shinier and easier to apply. It will both protect and enhance the gloss and shine on your 4 or 2 wheeled friend. It's fast to use and has become our most popular paint sealants - we absolutely love it, and going by the awesome reviews we get for it, a lot of others do as well!",
+                "size": [125, 770, 5000],
+                "price": [10.99, 26.99, 139.99],
+                "image": ["BOFS2125ML", "BOFS2770ML", "BOFS25L"]
+            },{
+                "name": "BOSS GLOSS",
+                "description": "This awesome detailing spray is made for car lovers who need something super fast and easy to bring up a great shine. As it's so fast and easy to use, Boss Gloss has become the go to product for our family to use on our cars before a show or tour event. It's also ideal for a quick go over before the car show judges appear (even in the sun) or a fast spruce up before car club run. It gives a high gloss shine and leaves a lovely slick finish for the win.",
+                "size": [125, 770, 5000, 20000],
+                "price": [8.99, 20.99, 96.99, 255.99],
+                "image": ["BOBOSS125ML", "BOBOSS770ML", "BOBOSS5L", "BOBOSS20L"]
+            },{
+                "name": "MR BLACK",
+                "description": "After 3 years of development and long term testing, our black plastic trim restorer is here! Super long lasting and made for our harsh Aussie climate, Mr Black is an all Australian made and developed world class competitor.",
+                "size": [],
+                "price": [51.99],
+                "image": ["BOMRBLACK"]
+            },{
+                "name": "WHEELY CLEAN",
+                "description": "We are always seeking to better the products we create with constant and ongoing formula revisions. Our Wheely Clean is one such example and this is now the 6th update since we first began formulating it 9 years ago. This latest formulas' has a real focus on grime cleaning, so it's epic for loosening that dirt and grime, so you can pressure wash the majority of it away with no scrubbing. This formula is a full year of development by our chemists, to create a totally unique variant from 14 quality ingredients, all custom blended in our Queensland factory to be of a world class quality.",
+                "size": [125, 500, 5000, 20000],
+                "price": [9.99, 26.99, 169.99, 449.99],
+                "image": ["BOWHC2125ML", "BOWHC2500ML", "BOWHC25L", "BOWHC220L"]
+            },{
+                "name": "TYRE SHEEN",
+                "description": "We got absolutely sick of tyre shines that would fling themselves over our cars on every spirited country drive. So we made our own that won't. It leaves a better than new 'concours' show car natural finish and it even smells like jam doughnuts.",
+                "size": [],
+                "price": [],
+                "image": []
+            },{
+                "name": "",
+                "description": "",
+                "size": [],
+                "price": [],
+                "image": []
+            },{
+                "name": "",
+                "description": "",
+                "size": [],
+                "price": [],
+                "image": []
+            },{
+                "name": "",
+                "description": "",
+                "size": [],
+                "price": [],
+                "image": []
+            },{
+                "name": "",
+                "description": "",
+                "size": [],
+                "price": [],
+                "image": []
+            },{
                 "name": "",
                 "description": "",
                 "size": [],
