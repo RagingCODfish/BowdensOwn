@@ -9,7 +9,7 @@
                 "description": "A couple of years ago we sat down with our chemists and began the wish list for a dream wash. This wash needed to be super lubricating, have amazing cleaning power, gentle on delicate modern paints and hands, be a true protective wash suitable for the Aussie environmental conditions and work with modern nano based paint protection coatings. It took a couple of years to get right, but what we created is one of the best and most unique washes on the planet.",
                 "size": [125, 500, 2000, 5000, 20000],
                 "price": [7.99, 22.99, 64.99, 134.99, 429.99],
-                "image": ["BONANO125", "BONANO500", "BONANO2000", "BONANO5000", "BONANO20000"]
+                "image": "BONANO"
             },
             {
 
@@ -18,7 +18,7 @@
                 "description": "The very first ever product that we ever created. It's a pure luxury wash, that's popular for a lot of reasons; from its slippery feel to help prevent any grime micro-scratching your paint, to the lovely clean glow it leaves on your beloved vehicle after a wash. Different to other washes, you can use it in the direct sun on the hottest day and not worry about it leaving streaking when rinsing down after. That's as "made for Aussie conditions" as you'll find! Give this one a run, we promise you'll love it.",
                 "size": [500, 5000],
                 "price": [17.99, 102.99],
-                "image": ["BOABG500", "BOABG5000"]
+                "image": "BOABG"
             },
             {
                 "name": "Snow Job",
@@ -26,77 +26,77 @@
                 "description": "We're bringing snow to all parts of Australia with this effective, deep cleaning Australian developed and made pre-wash foam that we call Snow Job. It has been created for regular use on all cars, modern and classic, even those with sensitive paint finishes. The thick and long-lasting foam blankets the car, to loosen and dissolve heavier contaminants, oils and grit from the painted surface, so you're no longer grinding this dirt and grit into your paint while you wash. Spray this through our awesome Snow Blow Cannon, to dramatically decrease the chance of getting any swirls or scratches when washing your car.",
                 "size": [1000, 2000, 5000, 20000],
                 "price": [31.99, 58.99, 106.99, 405.99],
-                "image": ["BOSNOW1000", "BOSNOW20000", "BOSNOW5000", "BOSNOW20000"]
+                "image": "BOSNOW"
             },{
                 "name": "DANIEL MORCOMBE SNOW GOOD",
                 "caption": "BECAUSE IT FEELS SNOW GOOD TO GIVE BACK",
                 "description": "We find snow foaming so fun and satisfying, and now we've added an extra layer of goodness to the experience with our new Snow Good charity foams - we're absolutely rapt to donate $10 from every bottle of Snow Good to support The Daniel Morcombe Foundation and all the amazing work they do to make Australia a safer place for children. Snow Good is based on our epicly popular Yellow Snow special edition foam (with a sweet new fragrance), so not only are you going to get great results, you can feel Snow Good that you're helping a charity with every wash.",
                 "size": [1000],
                 "price": [30.99],
-                "image": ["BCDM1000"]
+                "image": "BCDM"
             },{
                 "name": "MEGA SNOW JOB",
                 "caption": "A touch-less pre-wash snow foam, to help stop swirl marks when washing.",
                 "description": "We love a good Snow Job pre-wash, but sometimes on those dirtier weekends you need something with a bit more oomph to cut through and loosen heavier dirt and grime. Mega Snow Job is our new heavy duty snow foam designed for those dirtier jobs - whether it's for your 4WD, motorbike, off road caravan, even watercraft, or you just want that deeper clean.",
                 "size": [1000, 5000],
                 "price": [31.99, 106.99],
-                "image": ["BOMEGASNOW1000", "BOMEGASNOW5000"]
+                "image": "BOMEGASNOW"
             },{
                 "name": "YELLOW SNOW",
                 "caption": "A touch-less pre-wash snow foam, to help stop swirl marks when washing.",
                 "description": "A super thick and sudsy snow foam for pre cleaning your vehicle, before moving onto a 2 bucket wash. Available in 5L and 20L bottles only, for those frothers who love their Yellow Snow.",
                 "size": [5000, 20000],
                 "price": [80.99, 395.99],
-                "image": ["BODONTEAT5000", "BODONTEAT20000"]
+                "image": "BODONTEAT"
             },{
                 "name": "WAX WASH",
                 "caption": "FOR THE MORE TIME POOR AND LAZY ENTHUSIASTS.",
                 "description": "We always thought wash and wax products were very gimmicky and not much chop, so we set our chemists off to make one that actually works. This is a more naturally formulated wash, that uses a modern blend of ingredients to give a great shine and added protection while you wash.",
                 "size": [2000, 5000, 20000],
                 "price": [30.99, 71.99, 199.99],
-                "image": ["BOWW2000", "BOWW5000", "BOWW20000"]
+                "image": "BOWW"
             },{
                 "name": "SUMMER EDITION WAX WASH",
                 "caption": "Smells and feels like a beautiful tropical Qld Summer!",
                 "description": "Much loved by many car fanatics, our special edition Summer Wax Wash is a Carnauba infused wash, created for the time poor or lazy enthusiast. This custom formulation is beautifully easy to use, super lubricating and deep cleans as well as our original Wax Wash, but has a touch more Carnauba for extra shine and protection, as well as some cool anti-rust additives and UV protectants to deal with our Aussie Summer conditions.",
                 "size": [500],
                 "price": [9.99],
-                "image": ["BOSUMMERWW500"]
+                "image": "BOSUMMERWW"
             },{
                 "name": "HAPPY ENDING",
                 "caption": "A super hydrophobic after-wash finishing foam.",
                 "description": "A new generation of car care that creates a super hydrophobic layer of protection and a stunning shine in one quick step. This finishing foam is applied with our Snow Blow Cannon at the end of the wash. No rubbing on or buffing off is needed, making it super easy to get awesome results - so easy in fact, it feels like you're cheating.",
                 "size": [1000],
                 "price": [61.99],
-                "image": ["BOHAPPY1000"]
+                "image": "BOHAPPY"
             },{
                 "name": "WET DREAMS",
                 "caption": "A protective spray on, rinse off sealant",
                 "description": "A fantastic spray on, rinse off protective sealant that we use at the end of a wash. This is ideal for fanatics who want a quick boost of shine and super hydrophobic protection and prefer not to use a pressure washer when they detail their cars. The way it works on a still wet surface is a total dream, hence the name Wet Dreams.",
                 "size": [125, 770, 5000],
                 "price": [9.99, 35.99, 209.99],
-                "image": ["BODREAMS125", "BODREAMS770", "BODREAMS5000"]
+                "image": "BODREAMS"
             },{
                 "name": "AFTER GLOW",
                 "caption": "A fantastic drying aid, that leaves a beautiful reflective shine with each use.",
                 "description": "One of the best formulas we have ever created. After Glow took us just on 2 years of intensive development, with close to 90 different product formulations being extensively tested to perfect it. This is a very a different drying aid than what you might have used before, in that you use it with a damp cloth to dry your car. It uses a diverse multitude of ingredients that work to absorb the water straight into your damp Big Softie cloth, and then effortlessly buffs off to leave a brilliant, streak free shine.",
                 "size": [125, 500, 5000],
                 "price": [12.99, 32.99, 221.99],
-                "image": ["BOGLOW125", "BOGLOW500", "BOGLOW5000"]
+                "image": "BOGLOW"
             },{
                 "name": "THREE WAY",
                 "caption": "Fast and effective paint decontamination",
                 "description": "Three Way is our Aussie made and developed solution for easy removal of embedded iron particles and other hard to remove contamination from your paint. We've been working on this one for the last year to use as a safe paint preparation product, that does three decontamination processes in one go. It saves you time and money and leaves you with beautiful smooth paint, so our final stage wax and sealant products can leave a greater shine and protect for longer.",
                 "size": [125, 750, 5000],
                 "price": [10.99, 37.99, 221.99],
-                "image": ["BO3WAY125", "BO3WAY750", "BO3WAY5000"]
+                "image": "BO3WAY"
             },{
                 "name": "CLAYING RUBBER",
                 "caption": "THE FASTER WAY TO CLAY YOUR CAR",
                 "description": "One of the first steps to shiny paint, is to return it to a nice and smooth finish, free from any bonded contaminants. This new Claying Rubber is what we’ve found to be the easiest, fastest and most effective way to remove these bonded contaminants in one simple step. Using this will help make your paint super smooth, as well as making the paint cleanser, waxes and sealant products easier to use, give a great shine and protect at their very best.",
                 "size": [],
                 "price": [39.99],
-                "image": ["BOFCRBIG"]
+                "image": "BOFCRBIG"
             },{
                 "name": "FINE CLAY BAR",
                 "caption": "Cleans and restores the paint surface back to a smooth finish.",
@@ -110,14 +110,14 @@
                 "description": "A non-abrasive paint care system is what we wanted all those years ago, as we got sick of the swirls and damage the polishes were creating to our beloved cars. The Paint Cleanse and Restore is the latest version of our original Auto Body Cleanser, and the biggest gun in our arsenal for deep cleaning and repairing paint, always bringing out a stunning deep shine, with no swirls! This product is a pure cleaner, so you need to finish it off with our protective Carnauba Body Wax or Lazy Wax after using it.",
                 "size": [125, 500, 5000],
                 "price": [11.99, 28.99, 179.99],
-                "image": ["BOABC125", "BOABC500", "BOABC5000"]
+                "image": "BOABC"
             },{
                 "name": "FLASH PREP",
                 "caption": "",
                 "description": "",
                 "size": [125, 500, 5000],
                 "price": [7.99, 20.99, 184.99],
-                "image": ["BOFPREP125", "BOFPREP500", "BOFPREP5000"]
+                "image": "BOFPREP"
             },{
                 "name": "BEAUT BEADS PASTE WAX",
                 "caption": "",
@@ -131,133 +131,133 @@
                 "description": "We custom blend this boutique wax for those who want the easiest to use product that delivers a stunning show car shine. No abrasives, no harsh cleaners, just a pure protective Carnauba wax. Another one we love, and by the fans we get after they use it, you will as well.",
                 "size": [125, 500, 5000],
                 "price": [12.99, 31.99, 189.99],
-                "image": ["BOABW125", "BOABW500", "BOABW5000"]
+                "image": "BOABW"
             },{
                 "name": "LAZY WAX",
                 "caption": "A PURE CARNAUBA SPRAY WAX, FOR TIME POOR ENTHUSIASTS",
                 "description": "We love Carnauba wax for the lovely warm glow and extra depth it creates, something no synthetic product has ever been able to match. So while our chemists were creating the protective synthetic Fully Slick spray, we also had them working on this naturally based spray wax. If you're after a genuine spray wax, you cannot go past this quality product.",
                 "size": [125, 770, 5000],
                 "price": [11.99, 30.99, 150.99],
-                "image": ["BOLAZY125", "BOLAZY770", "BOLAZY5000"]
+                "image": "BOLAZY"
             },{
                 "name": "BEAD MACHINE",
                 "caption": "A super hydrophobic paint sealant",
                 "description": "This fantastic super hydrophobic spray is the most protective product in our range. Apply it to a dry surface to get awesome protection as well as a stunning shine. It also creates pretty damn sweet super hydrophobic water beading and sheeting.",
                 "size": [125, 500, 5000],
                 "price": [12.99, 33.99, 304.99],
-                "image": ["BOMACHINE125", "BOMACHINE500", "BOMACHINE5000"]
+                "image": "BOMACHINE"
             },{
                 "name": "FULLY SLICK 2",
                 "caption": "",
                 "description": "Our original spray sealant that's become famous with car enthusiasts due to the beautiful slick feeling surface it leaves, now with an updated formula that's slicker, shinier and easier to apply. It will both protect and enhance the gloss and shine on your 4 or 2 wheeled friend. It's fast to use and has become our most popular paint sealants - we absolutely love it, and going by the awesome reviews we get for it, a lot of others do as well!",
                 "size": [125, 770, 5000],
                 "price": [10.99, 26.99, 139.99],
-                "image": ["BOFS2125", "BOFS2770", "BOFS25000"]
+                "image": "BOFS2"
             },{
                 "name": "BOSS GLOSS",
                 "caption": "",
                 "description": "This awesome detailing spray is made for car lovers who need something super fast and easy to bring up a great shine. As it's so fast and easy to use, Boss Gloss has become the go to product for our family to use on our cars before a show or tour event. It's also ideal for a quick go over before the car show judges appear (even in the sun) or a fast spruce up before car club run. It gives a high gloss shine and leaves a lovely slick finish for the win.",
                 "size": [125, 770, 5000, 20000],
                 "price": [8.99, 20.99, 96.99, 255.99],
-                "image": ["BOBOSS125", "BOBOSS770", "BOBOSS5000", "BOBOSS20000"]
+                "image": "BOBOSS"
             },{
                 "name": "MR BLACK",
                 "caption": "",
                 "description": "After 3 years of development and long term testing, our black plastic trim restorer is here! Super long lasting and made for our harsh Aussie climate, Mr Black is an all Australian made and developed world class competitor.",
                 "size": [],
                 "price": [51.99],
-                "image": ["BOMRBLACK"]
+                "image": "BOMRBLACK"
             },{
                 "name": "WHEELY CLEAN",
                 "caption": "",
                 "description": "We are always seeking to better the products we create with constant and ongoing formula revisions. Our Wheely Clean is one such example and this is now the 6th update since we first began formulating it 9 years ago. This latest formulas' has a real focus on grime cleaning, so it's epic for loosening that dirt and grime, so you can pressure wash the majority of it away with no scrubbing. This formula is a full year of development by our chemists, to create a totally unique variant from 14 quality ingredients, all custom blended in our Queensland factory to be of a world class quality.",
                 "size": [125, 500, 5000, 20000],
                 "price": [9.99, 26.99, 169.99, 449.99],
-                "image": ["BOWHC2125", "BOWHC2500", "BOWHC25000", "BOWHC220000"]
+                "image": "BOWHC2"
             },{
                 "name": "TYRE SHEEN",
                 "caption": "FOR A CLASSY LOOKING, NATURAL SHEEN THAT DOES NOT FLING",
                 "description": "We got absolutely sick of tyre shines that would fling themselves over our cars on every spirited country drive. So we made our own that won't. It leaves a better than new 'concours' show car natural finish and it even smells like jam doughnuts.",
                 "size": [500, 5000],
                 "price": [25.99, 164.99],
-                "image": ["BOTS500", "BOTS5000"]
+                "image": "BOTS"
             },{
                 "name": "TA TA TAR",
                 "caption": "SAFELY REMOVES LIGHT & HEAVY TAR DEPOSITS",
                 "description": "Our new citrus based Ta Ta Tar is made for Aussie road trips, to quickly clean fresh tar from your cars paint, trims and glass.",
                 "size": [500, 5000],
                 "price": [26.99, 139.99],
-                "image": ["BOTTT500", "BOTTT5000"]
+                "image": "BOTTT"
             },{
                 "name": "BUGGER OFF",
                 "caption": "GETS RID OF KAMIKAZE BUG STRIKE MARKS - FAST.",
                 "description": "With so many late model cars and bikes having plastic and polycarboante parts that can be affected by traditional bug cleaning products, we needed to find a safe solution. We worked with a group of professional detailers to develop this formula, that is very safe and still super effective at cleaning bug strike marks from your car, bike and truck.",
                 "size": [125, 500, 5000, 20000],
                 "price": [7.99, 18.99, 85.99, 267.99],
-                "image": ["BOBO125", "BOBO500", "BOBO5000", "BOBO20000"]
+                "image": "BOBO"
             },{
                 "name": "CLEAN DETAIL",
                 "caption": "FOR A BEAUTIFUL CLEAN AND SHINE IN MINUTES",
                 "description": "Our best detailing spray for more in-depth cleaning. This is our original formula that has become much loved and appreciated by many fanatics, due to it being super fast and easy to use.",
                 "size": [125, 750, 5000],
                 "price": [9.99, 22.99, 92.99],
-                "image": ["BOABD125", "BOABD750", "BOABD5000"]
+                "image": "BOABD"
             },{
                 "name": "ORANGE AGENT",
                 "caption": "A SAFE AND AWESOME CITRUS CLEANING AGENT.",
                 "description": "A uniquely pH neutral, ready to use all purpose cleaner. It's especially great for cleaning engine bays; being safe for all your polished metals and other delicate surfaces, but strong enough to clean up all the heavy dirt and grime. Also awesome for deep cleaning dirty car interiors, including vinyl and leather, vinyl hood linings & is perfect for use in shampoo extractor machines. Also wheels, tyres, plastic trims, undercarriages and perhaps the biggest users have been the bike guys, both motorised and people powered varieties. ",
                 "size": [125, 500, 5000, 20000],
                 "price": [6.99, 15.99, 85.99, 319.99],
-                "image": ["BOAO125", "BOAO500", "BOAO5000", "BOAO20000"]
+                "image": "BOAO"
             },{
                 "name": "METAL POLISH",
                 "caption": "GIVES AN EPIC MIRROR SHINE TO YOUR DULL METALS",
                 "description": "We first made our Metal Polish back in 2005 and its been a steady periodic development of it with three upgrades since that time. This latest new \"Tru Blu\" version is by far our best yet. It has a new combination of fine non-dimishing and medium grade-diminshing abrasives for restoring the shine to dull and tarnished aluminium, alloy and other polishable metal surfaces. It's now even easier to use and the messy black residue now washes off with just water! It's also feels pretty \"heavy\" like our original formula, but great to use with electric drills and polishing balls and cones.",
                 "size": [250],
                 "price": [32.99],
-                "image": ["BOMP"]
+                "image": "BOMP"
             },{
                 "name": "SHINY STUFF",
                 "caption": "A VERY SATISFYING HAND POLISH",
                 "description": "It's no secret that we're pretty obsessed with shiny things, so you know we’re going to pull out all the stops to get an epic finish on polishable metal. The result of 5 years in development, Shiny Stuff is a very fine grade metal polishing paste specially formulated for more delicate chrome, alloy, billet wheels, glass, stainless steel, brass and other polishable metals. This fine paste seals the metal too, to keep that shine locked in for longer. It’s awesome for use with our polishing balls and cones on lightly tarnished surfaces, for that final mirror finish.",
                 "size": [],
                 "price": [36.99],
-                "image": ["BOSSTUFF"]
+                "image": "BOSSTUFF"
             },{
                 "name": "SUBLIME CLEAN",
                 "caption": "Deep cleans exterior fabrics and vinyl, as well as removing silicones from plastics.",
                 "description": "",
                 "size": [125, 500],
                 "price": [10.99, 22.99],
-                "image": ["BOSLC125", "BOSLC500"]
+                "image": "BOSLC"
             },{
                 "name": "VINYL REVIVAL",
                 "caption": "Revives and protects your exterior vinyl, rubber & plastics.",
                 "description": "",
                 "size": [125, 500, 5000],
                 "price": [11.99, 26.99, 211.99],
-                "image": ["BOVREV125", "BOVREV500", "BOVREV5000"]
+                "image": "BOVREV"
             },{
                 "name": "RUBBER OFF",
                 "caption": "Your best mate on track days.",
                 "description": "Our family love car racing, so over the course of last year we had Chris Bowden and his main spanner turner Jason developing this rubber removing spray at each race round they attended. We've got it that good now, that it's like crack cocaine for our race mechanics!",
                 "size": [125, 750, 5000],
                 "price": [7.99, 22.99, 126.99],
-                "image": ["BORUB125", "BORUB750", "BORUB5000"]
+                "image": "BORUB"
             },{
                 "name": "WIPE OUT",
                 "caption": "A WINDSCREEN WASHER ADDITIVE FOR CAR FANATICS.",
                 "description": "After detailing our cars we would always be super cautious about ever hitting the windscreen washer stalk, for fear of the washer fluid potentially etching or affecting our freshly detailed car. So, we have been working for years on a formula that was safe, but also works well enough at cleaning normal road grime, bugs, seaspray and dust from the glass. After testing for the last year on all our road trips and daily driving we have now developed one that fits the bill just right. ",
                 "size": [125, 1000, 5000],
                 "price": [10.99, 29.99, 118.99],
-                "image": ["BOWOUT125", "BOWOUT1000", "BOWOUT5000"]
+                "image": "BOWOUT"
             },{
                 "name": "MELT DOWN",
                 "caption": "A LITTLE BIT OF QLD WARMTH IN EVERY BOTTLE.",
                 "description": "Melt Down is our great ice remover for the poor buggers who live in the colder states. Our concentrated formula contains no damaging methanol, strong solvents or salt, but works bloody great at melting frost and light ice. It leaves a safe, streak free finish on glass and comes with a little bit of Queensland warmth in every bottle.",
                 "size": [500],
                 "price": [26.99],
-                "image": ["BOMELT500"]
+                "image": "BOMELT"
             }
             
         ]
@@ -272,7 +272,7 @@
                 "description": "We know your leather needs our love. It took us a couple of years to create and perfect this great leather cleaner/conditioner. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference great car care can make.",
                 "size": [125, 500, 2000, 5000, 20000],
                 "price": [7.99, 22.99, 64.99, 134.99, 429.99],
-                "image": ["BOLL125", "BOLL500", "BOLL2000", "BOLL5000", "BOLL20000"]
+                "image": "BOLL"
             },
             {
                 "name": "Naked Glass",
@@ -280,14 +280,22 @@
                 "description": "Words cannot express how much we love this glass cleaner. With the hundreds of windows we clean each year it was important to have a product that does the job both fast, easy and streak free. Just spray into a Inta-Mitt or low pile side of the Big Softie microfibre cloth, wipe the glass over, then turn cloth to a dry side and buff off to show perfectly clean glass. This is something every car fanatic needs in their car care arsenal.",
                 "size": [125, 500, 5000, 20000],
                 "price": [7.99, 17.99, 102.99, 183.99],
-                "image": ["BONG125", "BONG500", "BONG5000", "BONG20000"]
+                "image": "BONG"
             },{
                 "name": "VINYL CARE",
                 "caption": "A unique, silicone free dash and trim protectant.",
                 "description": "Our world first silicone free interior cleaner and protectant. Using it regularly will look after all your cars interior vinyl, artificial leather, plastic and rubber. This is a formula that we are very proud of, and we know you'll love using to care for your cars trim.",
                 "size": [125, 500, 5000],
                 "price": [8.99, 23.99, 185.99],
-                "image": ["BOVC125", "BOVC500", "BOVC5000"]
+                "image": "BOVC"
+                
+            },{
+                "name": "LEATHER GUARD",
+                "caption": "Gives your leather the needed protection from daily wear and tear",
+                "description": "Made to work with the Leather Love cleaner/conditioner, this formula took us a couple of years to perfect. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference a great leather care system can make.",
+                "size": [125, 500, 5000],
+                "price": [11.99, 30.99, 191.99],
+                "image": "BOLG"
                 
             },{
                 "name": "",
@@ -295,49 +303,42 @@
                 "description": "",
                 "size": [],
                 "price": [],
-                
+                "image": []
             },{
                 "name": "",
                 "caption": "",
                 "description": "",
                 "size": [],
                 "price": [],
-                
+                "image": ""
             },{
                 "name": "",
                 "caption": "",
                 "description": "",
                 "size": [],
                 "price": [],
-                
+                "image": ""
             },{
                 "name": "",
                 "caption": "",
                 "description": "",
                 "size": [],
                 "price": [],
-                
+                "image": ""
             },{
                 "name": "",
                 "caption": "",
                 "description": "",
                 "size": [],
                 "price": [],
-                
+                "image": ""
             },{
                 "name": "",
                 "caption": "",
                 "description": "",
                 "size": [],
                 "price": [],
-                
-            },{
-                "name": "",
-                "caption": "",
-                "description": "",
-                "size": [],
-                "price": [],
-                
+                "image": ""
             }
         ]
     },
