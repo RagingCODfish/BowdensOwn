@@ -12,6 +12,7 @@ struct CategoryView: View {
     var body: some View {
         Text("Category view")
         Text("Github test")
+        Text("Second Test")
     }
 }
 
