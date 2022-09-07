@@ -7,19 +7,20 @@
 
 import Foundation
 
-struct Sections: Codable, Identifiable {
-    var id = UUID()
-    var name: String
-    var products: [Product]
-}
+struct Category: Codable {
+    struct Products: Codable {
 
-struct Product: Codable, Equatable, Identifiable {
-    var id = UUID()
-    var name: String
-    var size: [Int]
-    var price: [Double]
+        let name: String
+        let size: [Int]
+        let price: [Double]
+    }
     
-    static let example = Product(id: UUID(), name: "Nanolicious", size: [1,2], price: [9.99, 49.99])
+
+    let category: String
+    let products: [Products]
+    
+    static let allCategories = Bundle.main.decode([Category].self, from: "products.json")
+    static let example = allCategories[0]
 }
 
 

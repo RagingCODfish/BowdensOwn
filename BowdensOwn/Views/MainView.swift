@@ -8,35 +8,29 @@
 import SwiftUI
 
 struct MainView: View {
+    
     var body: some View {
         TabView {
-            ProductsView()
+            CategoryView()
                 .tabItem {
                     Label("Products", systemImage: "car")
                 }
-            
-            GuidesView()
-                .tabItem {
-                    Label("Guides", systemImage: "info")
-                }
-            
-            ContentView()
-                .tabItem {
-                    Label("Whats New", systemImage: "newspaper")
-                }
-            
-            SearchView()
-                .tabItem {
-                    Label("Search", systemImage: "magnifyingglass")
-                }
-            
             CartView()
                 .tabItem {
                     Label("Cart", systemImage: "cart")
                 }
-            
-            
-            
+            ContentView()
+                .tabItem {
+                    Label("Whats New", systemImage: "newspaper")
+                }
+            SearchView()
+                .tabItem {
+                    Label("Search", systemImage: "magnifyingglass")
+                }
+            GuidesView()
+                .tabItem {
+                    Label("Guides", systemImage: "info")
+                }
             
         }
     }
