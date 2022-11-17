@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct MainView: View {
+    @EnvironmentObject var order: Order
+    @EnvironmentObject var cart: Cart
     
     var body: some View {
         TabView {
@@ -19,6 +21,8 @@ struct MainView: View {
                 .tabItem {
                     Label("Cart", systemImage: "cart")
                 }
+                .badge(cart.orderItems.count)
+                
             ContentView()
                 .tabItem {
                     Label("Whats New", systemImage: "newspaper")
@@ -39,5 +43,7 @@ struct MainView: View {
 struct MainView_Previews: PreviewProvider {
     static var previews: some View {
         MainView()
+            .environmentObject(Menu())
+            .environmentObject(Cart())
     }
 }

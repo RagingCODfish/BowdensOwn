@@ -1,0 +1,1442 @@
+{
+    "sections": [
+        {
+            "id": "439A57E7-A4A5-441F-92D8-A7E2E5B8ED29",
+            "name": "Exterior",
+            "image": "Exterior",
+            "products": [
+                {
+                    "id": "108DFC46-C9BE-41F0-92E5-65FC814DC4FA", "name": "Nanolicious Wash",
+                    "caption": "OUR DREAM WASH, CREATED FOR THE FUSSIEST FANATICS",
+                    "description": "A couple of years ago we sat down with our chemists and began the wish list for a dream wash. This wash needed to be super lubricating, have amazing cleaning power, gentle on delicate modern paints and hands, be a true protective wash suitable for the Aussie environmental conditions and work with modern nano based paint protection coatings. It took a couple of years to get right, but what we created is one of the best and most unique washes on the planet.",
+                    "contents": ["a"],
+                    "size": [125, 500, 2000, 5000, 20000],
+                    "price": [7.99, 22.99, 64.99, 134.99, 429.99],
+                    "image": "BONANO",
+                    "displayImage": ""
+                },
+                {
+                    "id": "1BAD614D-A2F2-419E-803B-5C930A99AC12",
+                    "name": "Auto Body Gel",
+                    "caption": "GIVE YOUR CAR A BRILLIANT GLOW",
+                    "description": "The very first ever product that we ever created. It's a pure luxury wash, that's popular for a lot of reasons; from its slippery feel to help prevent any grime micro-scratching your paint, to the lovely clean glow it leaves on your beloved vehicle after a wash. Different to other washes, you can use it in the direct sun on the hottest day and not worry about it leaving streaking when rinsing down after. That's as \"made for Aussie conditions\" as you'll find! Give this one a run, we promise you'll love it.",
+                    "contents": ["a"],
+                    "size": [500, 5000],
+                    "price": [17.99, 102.99],
+                    "image": "BOABG",
+                    "displayImage": ""
+                },
+                {
+                    "id": "96681B4C-46F3-41CF-9E97-A2BE8BF62E69",
+                    "name": "Snow Job",
+                    "caption": "A touch-less pre-wash snow foam, to help stop swirl marks when washing.",
+                    "description": "We're bringing snow to all parts of Australia with this effective, deep cleaning Australian developed and made pre-wash foam that we call Snow Job. It has been created for regular use on all cars, modern and classic, even those with sensitive paint finishes. The thick and long-lasting foam blankets the car, to loosen and dissolve heavier contaminants, oils and grit from the painted surface, so you're no longer grinding this dirt and grit into your paint while you wash. Spray this through our awesome Snow Blow Cannon, to dramatically decrease the chance of getting any swirls or scratches when washing your car.",
+                    "contents": ["a"],
+                    "size": [1000, 2000, 5000, 20000],
+                    "price": [31.99, 58.99, 106.99, 405.99],
+                    "image": "BOSNOW",
+                    "displayImage": "BOSNOW1000"
+                },{
+                    "id": "DEC5BDF3-0606-4ED2-8956-B809D4AE0748",
+                    "name": "Daniel Morcombe Snow Good",
+                    "caption": "Because it feels snow good to give back",
+                    "description": "We find snow foaming so fun and satisfying, and now we've added an extra layer of goodness to the experience with our new Snow Good charity foams - we're absolutely rapt to donate $10 from every bottle of Snow Good to support The Daniel Morcombe Foundation and all the amazing work they do to make Australia a safer place for children. Snow Good is based on our epicly popular Yellow Snow special edition foam (with a sweet new fragrance), so not only are you going to get great results, you can feel Snow Good that you're helping a charity with every wash.",
+                    "contents": ["a"],
+                    "size": [1000],
+                    "price": [30.99],
+                    "image": "BCDM",
+                    "displayImage": ""
+                },{
+                    "id": "94D63099-3BEB-418C-9D27-E99E87F036BA",
+                    "name": "Mega Snow Job",
+                    "caption": "A touch-less pre-wash snow foam, to help stop swirl marks when washing.",
+                    "description": "We love a good Snow Job pre-wash, but sometimes on those dirtier weekends you need something with a bit more oomph to cut through and loosen heavier dirt and grime. Mega Snow Job is our new heavy duty snow foam designed for those dirtier jobs - whether it's for your 4WD, motorbike, off road caravan, even watercraft, or you just want that deeper clean.",
+                    "contents": ["a"],
+                    "size": [1000, 5000],
+                    "price": [31.99, 106.99],
+                    "image": "BOMEGASNOW",
+                    "displayImage": ""
+                },{
+                    "id": "84507DFC-8D01-45CC-95C3-35D45EE5439F",
+                    "name": "Yellow Snow",
+                    "caption": "A touch-less pre-wash snow foam, to help stop swirl marks when washing.",
+                    "description": "A super thick and sudsy snow foam for pre cleaning your vehicle, before moving onto a 2 bucket wash. Available in 5L and 20L bottles only, for those frothers who love their Yellow Snow.",
+                    "contents": ["a"],
+                    "size": [5000, 20000],
+                    "price": [80.99, 395.99],
+                    "image": "BODONTEAT",
+                    "displayImage": ""
+                },{
+                    "id": "25E9840F-497B-47AE-A2E6-AF8DD3EA380E",
+                    "name": "Wax Wash",
+                    "caption": "FOR THE MORE TIME POOR AND LAZY ENTHUSIASTS.",
+                    "description": "We always thought wash and wax products were very gimmicky and not much chop, so we set our chemists off to make one that actually works. This is a more naturally formulated wash, that uses a modern blend of ingredients to give a great shine and added protection while you wash.",
+                    "contents": ["a"],
+                    "size": [2000, 5000, 20000],
+                    "price": [30.99, 71.99, 199.99],
+                    "image": "BOWW",
+                    "displayImage": ""
+                },{
+                    "id": "8F6F0B48-F8BC-46C3-B2D1-F61AD3B11884",
+                    "name": "Summer Edition Wax Wash",
+                    "caption": "Smells and feels like a beautiful tropical Qld Summer!",
+                    "description": "Much loved by many car fanatics, our special edition Summer Wax Wash is a Carnauba infused wash, created for the time poor or lazy enthusiast. This custom formulation is beautifully easy to use, super lubricating and deep cleans as well as our original Wax Wash, but has a touch more Carnauba for extra shine and protection, as well as some cool anti-rust additives and UV protectants to deal with our Aussie Summer conditions.",
+                    "contents": ["a"],
+                    "size": [500],
+                    "price": [9.99],
+                    "image": "BOSUMMERWW",
+                    "displayImage": ""
+                },{
+                    "id": "DB83CF39-76F2-4620-823E-F900E34761C1",
+                    "name": "Happy Ending",
+                    "caption": "A super hydrophobic after-wash finishing foam.",
+                    "description": "A new generation of car care that creates a super hydrophobic layer of protection and a stunning shine in one quick step. This finishing foam is applied with our Snow Blow Cannon at the end of the wash. No rubbing on or buffing off is needed, making it super easy to get awesome results - so easy in fact, it feels like you're cheating.",
+                    "contents": ["a"],
+                    "size": [1000],
+                    "price": [61.99],
+                    "image": "BOHAPPY",
+                    "displayImage": ""
+                },{
+                    "id": "A989CA51-3827-4001-AEC6-6655D6D26534",
+                    "name": "Wet Dreams",
+                    "caption": "A protective spray on, rinse off sealant",
+                    "description": "A fantastic spray on, rinse off protective sealant that we use at the end of a wash. This is ideal for fanatics who want a quick boost of shine and super hydrophobic protection and prefer not to use a pressure washer when they detail their cars. The way it works on a still wet surface is a total dream, hence the name Wet Dreams.",
+                    "contents": ["a"],
+                    "size": [125, 770, 5000],
+                    "price": [9.99, 35.99, 209.99],
+                    "image": "BODREAMS",
+                    "displayImage": ""
+                },{
+                    "id": "3286E7EC-3498-4250-9F66-45192BF1DDC8",
+                    "name": "After Glow",
+                    "caption": "A fantastic drying aid, that leaves a beautiful reflective shine with each use.",
+                    "description": "One of the best formulas we have ever created. After Glow took us just on 2 years of intensive development, with close to 90 different product formulations being extensively tested to perfect it. This is a very a different drying aid than what you might have used before, in that you use it with a damp cloth to dry your car. It uses a diverse multitude of ingredients that work to absorb the water straight into your damp Big Softie cloth, and then effortlessly buffs off to leave a brilliant, streak free shine.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [12.99, 32.99, 221.99],
+                    "image": "BOGLOW",
+                    "displayImage": ""
+                },{
+                    "id": "63450AD3-31F3-48A9-AC10-0E58B1D2EF4F",
+                    "name": "Three Way",
+                    "caption": "Fast and effective paint decontamination",
+                    "description": "Three Way is our Aussie made and developed solution for easy removal of embedded iron particles and other hard to remove contamination from your paint. We've been working on this one for the last year to use as a safe paint preparation product, that does three decontamination processes in one go. It saves you time and money and leaves you with beautiful smooth paint, so our final stage wax and sealant products can leave a greater shine and protect for longer.",
+                    "contents": ["a"],
+                    "size": [125, 750, 5000],
+                    "price": [10.99, 37.99, 221.99],
+                    "image": "BO3WAY",
+                    "displayImage": ""
+                },{
+                    "id": "836F47A0-62AB-4D45-8077-D8AD227B93C9",
+                    "name": "Claying Rubber",
+                    "caption": "THE FASTER WAY TO CLAY YOUR CAR",
+                    "description": "One of the first steps to shiny paint, is to return it to a nice and smooth finish, free from any bonded contaminants. This new Claying Rubber is what we’ve found to be the easiest, fastest and most effective way to remove these bonded contaminants in one simple step. Using this will help make your paint super smooth, as well as making the paint cleanser, waxes and sealant products easier to use, give a great shine and protect at their very best.",
+                    "size": [1],
+                    "contents": ["a"],
+                    "price": [39.99],
+                    "image": "BOFCRBIG",
+                    "displayImage": ""
+                },{
+                    "id": "8FFAE842-59ED-4997-BA52-43C72AD3DE70",
+                    "name": "Fine Clay Bar",
+                    "caption": "Cleans and restores the paint surface back to a smooth finish.",
+                    "description": "In the Bowden family we are a little bit fanatical about beautiful smooth paint. With our Fine Clay Bar you can now clean your paint regularly without concern for reducing clear coat thickness or scratching. It's the first step for getting perfect smooth paint.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [26.99],
+                    "image": "BOFCB",
+                    "displayImage": ""
+                },{
+                    "id": "38CAB458-146F-4ECA-8DD1-93685A4983DD",
+                    "name": "Paint Cleanse & Restore",
+                    "caption": "A modern replacement for abrasive polishes",
+                    "description": "A non-abrasive paint care system is what we wanted all those years ago, as we got sick of the swirls and damage the polishes were creating to our beloved cars. The Paint Cleanse and Restore is the latest version of our original Auto Body Cleanser, and the biggest gun in our arsenal for deep cleaning and repairing paint, always bringing out a stunning deep shine, with no swirls! This product is a pure cleaner, so you need to finish it off with our protective Carnauba Body Wax or Lazy Wax after using it.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [11.99, 28.99, 179.99],
+                    "image": "BOABC",
+                    "displayImage": ""
+                },{
+                    "id": "60D9B428-AD1F-474F-AE67-8B02517C998B",
+                    "name": "Flash Prep",
+                    "caption": "a",
+                    "contents": ["a"],
+                    "description": "a",
+                    "size": [125, 500, 5000],
+                    "price": [7.99, 20.99, 184.99],
+                    "image": "BOFPREP",
+                    "displayImage": ""
+                },{
+                    "id": "7DA0AA52-DFAC-418C-8612-9D9A07B15680",
+                    "name": "Beaut Beads Paste Wax",
+                    "caption": "a",
+                    "description": "We hand-crafted this quality paste wax to show enthusiasts that waxes are far from dead. Developed by our in-house chemist who we tormented with 57 versions over 24 months (yep, some car resto’s are quicker), Beaut Beads is our modern Aussie take on a classic favourite, remedying many age-old paste wax issues. This wax has been created for true car fanatics who love the hands-on “romance” of using a quality paste wax and we’re super proud of the end result.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [159.99],
+                    "image": "BOBBW",
+                    "displayImage": ""
+                },{
+                    "id": "3DB2201E-A5CC-4CB9-88DD-6ED389D34A34",
+                    "name": "Carnauba Body Wax",
+                    "caption": "Super hydrophobic carnauba paste wax for car fanatics.",
+                    "description": "We custom blend this boutique wax for those who want the easiest to use product that delivers a stunning show car shine. No abrasives, no harsh cleaners, just a pure protective Carnauba wax. Another one we love, and by the fans we get after they use it, you will as well.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [12.99, 31.99, 189.99],
+                    "image": "BOABW",
+                    "displayImage": ""
+                },{
+                    "id": "F04F0F67-4786-453B-AE1E-106FF71D2DA9",
+                    "name": "Lazy Wax",
+                    "caption": "A carauba spray wax, for time poor enthusiasts",
+                    "description": "We love Carnauba wax for the lovely warm glow and extra depth it creates, something no synthetic product has ever been able to match. So while our chemists were creating the protective synthetic Fully Slick spray, we also had them working on this naturally based spray wax. If you're after a genuine spray wax, you cannot go past this quality product.",
+                    "contents": ["a"],
+                    "size": [125, 770, 5000],
+                    "price": [11.99, 30.99, 150.99],
+                    "image": "BOLAZY",
+                    "displayImage": ""
+                },{
+                    "id": "5E249AB2-F5A4-4DF3-B921-40E5495DDB44",
+                    "name": "Bead Machine",
+                    "caption": "A super hydrophobic paint sealant",
+                    "description": "This fantastic super hydrophobic spray is the most protective product in our range. Apply it to a dry surface to get awesome protection as well as a stunning shine. It also creates pretty damn sweet super hydrophobic water beading and sheeting.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [12.99, 33.99, 304.99],
+                    "image": "BOMACHINE",
+                    "displayImage": ""
+                },{
+                    "id": "471E9EFA-8A2E-4008-8B66-AACB0E792104",
+                    "name": "Fully Slick 2",
+                    "caption": "",
+                    "description": "Our original spray sealant that's become famous with car enthusiasts due to the beautiful slick feeling surface it leaves, now with an updated formula that's slicker, shinier and easier to apply. It will both protect and enhance the gloss and shine on your 4 or 2 wheeled friend. It's fast to use and has become our most popular paint sealants - we absolutely love it, and going by the awesome reviews we get for it, a lot of others do as well!",
+                    "contents": ["a"],
+                    "size": [125, 770, 5000],
+                    "price": [10.99, 26.99, 139.99],
+                    "image": "BOFS2",
+                    "displayImage": ""
+                },{
+                    "id": "B80C7008-3E66-4D9A-AE42-76C8922A5ECA",
+                    "name": "Boss Gloss",
+                    "caption": "a",
+                    "description": "This awesome detailing spray is made for car lovers who need something super fast and easy to bring up a great shine. As it's so fast and easy to use, Boss Gloss has become the go to product for our family to use on our cars before a show or tour event. It's also ideal for a quick go over before the car show judges appear (even in the sun) or a fast spruce up before car club run. It gives a high gloss shine and leaves a lovely slick finish for the win.",
+                    "contents": ["a"],
+                    "size": [125, 770, 5000, 20000],
+                    "price": [8.99, 20.99, 96.99, 255.99],
+                    "image": "BOBOSS",
+                    "displayImage": ""
+                },{
+                    "id": "FBF644A6-D051-4F18-82A1-6822F59CAC9F",
+                    "name": "Mr Black",
+                    "caption": "a",
+                    "description": "After 3 years of development and long term testing, our black plastic trim restorer is here! Super long lasting and made for our harsh Aussie climate, Mr Black is an all Australian made and developed world class competitor.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [51.99],
+                    "image": "BOMRBLACK",
+                    "displayImage": ""
+                },{
+                    "id": "E7DED951-1ABC-47E5-ABA1-114ABB1C4567",
+                    "name": "Wheely Clean",
+                    "caption": "",
+                    "description": "We are always seeking to better the products we create with constant and ongoing formula revisions. Our Wheely Clean is one such example and this is now the 6th update since we first began formulating it 9 years ago. This latest formulas' has a real focus on grime cleaning, so it's epic for loosening that dirt and grime, so you can pressure wash the majority of it away with no scrubbing. This formula is a full year of development by our chemists, to create a totally unique variant from 14 quality ingredients, all custom blended in our Queensland factory to be of a world class quality.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000, 20000],
+                    "price": [9.99, 26.99, 169.99, 449.99],
+                    "image": "BOWHC2",
+                    "displayImage": ""
+                },{
+                    "id": "9EF76CEE-DDE6-4414-875E-7E6BC37A1905",
+                    "name": "Tyre Sheen",
+                    "caption": "For a classy looking, natural sheen that does not fling",
+                    "description": "We got absolutely sick of tyre shines that would fling themselves over our cars on every spirited country drive. So we made our own that won't. It leaves a better than new 'concours' show car natural finish and it even smells like jam doughnuts.",
+                    "contents": ["a"],
+                    "size": [500, 5000],
+                    "price": [25.99, 164.99],
+                    "image": "BOTS",
+                    "displayImage": ""
+                },{
+                    "id": "F280F74B-2DC9-4FB1-8C84-706EF93F0C6D",
+                    "name": "Ta Ta Tar",
+                    "caption": "SAFELY REMOVES LIGHT & HEAVY TAR DEPOSITS",
+                    "description": "Our new citrus based Ta Ta Tar is made for Aussie road trips, to quickly clean fresh tar from your cars paint, trims and glass.",
+                    "contents": ["a"],
+                    "size": [500, 5000],
+                    "price": [26.99, 139.99],
+                    "image": "BOTTT",
+                    "displayImage": ""
+                },{
+                    "id": "791328B9-4E5D-4C24-812C-50C4BE85C507",
+                    "name": "Bugger Off",
+                    "caption": "Gets rid of kamikaze bug strike marks - Fast.  GETS RID OF KAMIKAZE BUG STRIKE MARKS - FAST.",
+                    "description": "With so many late model cars and bikes having plastic and polycarboante parts that can be affected by traditional bug cleaning products, we needed to find a safe solution. We worked with a group of professional detailers to develop this formula, that is very safe and still super effective at cleaning bug strike marks from your car, bike and truck.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000, 20000],
+                    "price": [7.99, 18.99, 85.99, 267.99],
+                    "image": "BOBO",
+                    "displayImage": ""
+                },{
+                    "id": "8800A533-2C29-4DB9-BE6D-6F57D74524A4",
+                    "name": "Clean Detail",
+                    "caption": "For a beautiful clean and shine in minutes",
+                    "description": "Our best detailing spray for more in-depth cleaning. This is our original formula that has become much loved and appreciated by many fanatics, due to it being super fast and easy to use.",
+                    "contents": ["a"],
+                    "size": [125, 750, 5000],
+                    "price": [9.99, 22.99, 92.99],
+                    "image": "BOABD",
+                    "displayImage": ""
+                },{
+                    "id": "CBDA7C33-E5F7-4F08-B1C3-6D6513AA5DA0",
+                    "name": "Orange Agent",
+                    "caption": "A safe and awesome citrus cleaning agent.",
+                    "description": "A uniquely pH neutral, ready to use all purpose cleaner. It's especially great for cleaning engine bays; being safe for all your polished metals and other delicate surfaces, but strong enough to clean up all the heavy dirt and grime. Also awesome for deep cleaning dirty car interiors, including vinyl and leather, vinyl hood linings & is perfect for use in shampoo extractor machines. Also wheels, tyres, plastic trims, undercarriages and perhaps the biggest users have been the bike guys, both motorised and people powered varieties.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000, 20000],
+                    "price": [6.99, 15.99, 85.99, 319.99],
+                    "image": "BOAO",
+                    "displayImage": ""
+                },{
+                    "id": "92894996-047C-4C5F-9104-EFDDFB9369D4",
+                    "name": "Metal Polish",
+                    "caption": "Gives an epic mirror shine to your dull metals",
+                    "description": "We first made our Metal Polish back in 2005 and its been a steady periodic development of it with three upgrades since that time. This latest new \"Tru Blu\" version is by far our best yet. It has a new combination of fine non-dimishing and medium grade-diminshing abrasives for restoring the shine to dull and tarnished aluminium, alloy and other polishable metal surfaces. It's now even easier to use and the messy black residue now washes off with just water! It's also feels pretty \"heavy\" like our original formula, but great to use with electric drills and polishing balls and cones.",
+                    "contents": ["a"],
+                    "size": [250],
+                    "price": [32.99],
+                    "image": "BOMP",
+                    "displayImage": ""
+                },{
+                    "id": "5D9F5B20-AEDC-4AE7-961C-5D16FFF71BE8",
+                    "name": "Shiny Stuff",
+                    "caption": "A very satisfying hand polish",
+                    "description": "It's no secret that we're pretty obsessed with shiny things, so you know we’re going to pull out all the stops to get an epic finish on polishable metal. The result of 5 years in development, Shiny Stuff is a very fine grade metal polishing paste specially formulated for more delicate chrome, alloy, billet wheels, glass, stainless steel, brass and other polishable metals. This fine paste seals the metal too, to keep that shine locked in for longer. It’s awesome for use with our polishing balls and cones on lightly tarnished surfaces, for that final mirror finish.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [36.99],
+                    "image": "BOSSTUFF",
+                    "displayImage": ""
+                },{
+                    "id": "E3DFA83B-5FDF-4559-ABE2-A29C5AA58FFC",
+                    "name": "Sublime Clean",
+                    "caption": "Deep cleans exterior fabrics and vinyl, as well as removing silicones from plastics.",
+                    "description": "a",
+                    "contents": ["a"],
+                    "size": [125, 500],
+                    "price": [10.99, 22.99],
+                    "image": "BOSLC",
+                    "displayImage": ""
+                },{
+                    "id": "5690F9FD-EB73-49C5-BC42-501850DA4E4A",
+                    "name": "Vinyl Revival",
+                    "caption": "Revives and protects your exterior vinyl, rubber & plastics.",
+                    "description": "a",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [11.99, 26.99, 211.99],
+                    "image": "BOVREV",
+                    "displayImage": ""
+                },{
+                    "id": "F13F9542-1D50-4BCF-B1D2-29A07F050BCA",
+                    "name": "Rubber off",
+                    "caption": "Your best mate on track days.",
+                    "description": "Our family love car racing, so over the course of last year we had Chris Bowden and his main spanner turner Jason developing this rubber removing spray at each race round they attended. We've got it that good now, that it's like crack cocaine for our race mechanics!",
+                    "contents": ["a"],
+                    "size": [125, 750, 5000],
+                    "price": [7.99, 22.99, 126.99],
+                    "image": "BORUB",
+                    "displayImage": ""
+                },{
+                    "id": "2EEAC4ED-82E6-4765-A0A4-8AF63B6830A6",
+                    "name": "Wipe Out",
+                    "caption": "A windscreen washer additive for car fanatics",
+                    "description": "After detailing our cars we would always be super cautious about ever hitting the windscreen washer stalk, for fear of the washer fluid potentially etching or affecting our freshly detailed car. So, we have been working for years on a formula that was safe, but also works well enough at cleaning normal road grime, bugs, seaspray and dust from the glass. After testing for the last year on all our road trips and daily driving we have now developed one that fits the bill just right. ",
+                    "contents": ["a"],
+                    "size": [125, 1000, 5000],
+                    "price": [10.99, 29.99, 118.99],
+                    "image": "BOWOUT",
+                    "displayImage": ""
+                },{
+                    "id": "25DA5EBE-3A34-4212-BD24-507AAE8848AE",
+                    "name": "Melt Down",
+                    "caption": "A little bit of QLD warmth in every bottle",
+                    "description": "Melt Down is our great ice remover for the poor buggers who live in the colder states. Our concentrated formula contains no damaging methanol, strong solvents or salt, but works bloody great at melting frost and light ice. It leaves a safe, streak free finish on glass and comes with a little bit of Queensland warmth in every bottle.",
+                    "contents": ["a"],
+                    "size": [500],
+                    "price": [26.99],
+                    "image": "BOMELT",
+                    "displayImage": ""
+                }
+                
+            ]
+        },
+        {
+            "id": "8D0C6948-3F92-43D0-A814-B9791C67B0F2",
+            "name": "Interior",
+            "image": "Interior",
+            "products": [
+                {
+                    "id": "92A5100F-B681-4011-867D-3D40BC960998", "name": "Leather Love",
+                    "caption": "Gently cleans and conditions leather in one quick step, restoring its natural feel and sheen",
+                    "description": "We know your leather needs our love. It took us a couple of years to create and perfect this great leather cleaner/conditioner. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference great car care can make.",
+                    "contents": ["a"],
+                    "size": [125, 500, 2000, 5000, 20000],
+                    "price": [7.99, 22.99, 64.99, 134.99, 429.99],
+                    "image": "BOLL",
+                    "displayImage": ""
+                },
+                {
+                    "id": "0D851C66-82CD-49EE-A820-77F8B741AE5E",
+                    "name": "Naked Glass",
+                    "caption": "New epic formula - a non streaking cleaner for perfectly clear and bare glass",
+                    "description": "Words cannot express how much we love this glass cleaner. With the hundreds of windows we clean each year it was important to have a product that does the job both fast, easy and streak free. Just spray into a Inta-Mitt or low pile side of the Big Softie microfibre cloth, wipe the glass over, then turn cloth to a dry side and buff off to show perfectly clean glass. This is something every car fanatic needs in their car care arsenal.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000, 20000],
+                    "price": [7.99, 17.99, 102.99, 183.99],
+                    "image": "BONG",
+                    "displayImage": ""
+                },{
+                    "id": "C221DC9D-6E07-4DAC-8E4E-E636C6C9855A",
+                    "name": "Vinyl Care",
+                    "caption": "A unique, silicone free dash and trim protectant.",
+                    "description": "Our world first silicone free interior cleaner and protectant. Using it regularly will look after all your cars interior vinyl, artificial leather, plastic and rubber. This is a formula that we are very proud of, and we know you'll love using to care for your cars trim.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [8.99, 23.99, 185.99],
+                    "image": "BOVC",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "70A3C4C4-5F4A-4841-BEE9-5AD3BC1AA5FD",
+                    "name": "Leather Guard",
+                    "caption": "Gives your leather the needed protection from daily wear and tear",
+                    "description": "Made to work with the Leather Love cleaner/conditioner, this formula took us a couple of years to perfect. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference a great leather care system can make.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [11.99, 30.99, 191.99],
+                    "image": "BOLG",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "89F0EED6-F269-4B39-AA8E-0EE47E29F258", "name": "Fabra Cadabra",
+                    "caption": "Magic deep-cleaning formula for many interior fabrics",
+                    "description": "A professional grade, fabric cleaning solution that really works. The new deeper cleaning formula is even better at removing dirt, oil, yellowing and most other stains, whilst it's also great at removing odours too. With the vast amount of late model cars using fabrics for interiors, we custom made this just for the task. As it's solvent free, it's ideal for cleaning the more delicate Alcantara and micro-suede materials as well.",
+                    "size": [125, 500, 5000],
+                    "price": [9.99, 20.99, 137.99],
+                    "contents": ["a"],
+                    "image": "BOFAB",
+                    "displayImage": ""
+                },{
+                    "id": "61B573B3-7DFB-438C-9F47-6ED4A1D17B93",
+                    "name": "Fabratection",
+                    "caption": "A water based, super hydrophobic fabric protectant",
+                    "description": "Our pro-grade super hydrophobic fabric protectant is something we are really proud to now have in the range, after having to abort this product many years ago due to the environmental concerns with it. Water based, it's safe, biodegradable and works awesome to help keep your fabric protected from stains. ",
+                    "contents": ["a"],
+                    "size": [125, 500],
+                    "price": [16.99, 46.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    "id": "3A92BBD8-2906-4920-A2E8-8670F578893B",
+                    "name": "Pong-Go",
+                    "caption": "Eliminates stubborn and offensive odours from your car, van, truck and boat",
+                    "description": "If you have kids, pets, have a mouldy/musty smell coming from the AC, inherited a smokers car, or just have very mischievous 'mates' leaving prawn heads under your seats, this is the gear for you.",
+                    "contents": ["a"],
+                    "size": [125, 500, 5000],
+                    "price": [9.99, 20.99, 154.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    "id": "7F1F010F-6515-44E7-8682-5862CF8B771D",
+                    "name": "Far Cough",
+                    "caption": "Eliminate germs, bacteria & other micro-nasties",
+                    "description": "A strong antibacterial spray that's safe for all surfaces, including delicate car interiors. It eliminates germs, bacteria and other micro-nasties in a safe and effective manner. Perfect for use in the car or the home.",
+                    "contents": ["a"],
+                    "size": [125, 770],
+                    "price": [10.99, 15.99],
+                    "image": "BOFARC",
+                    "displayImage": ""
+                },{
+                    "id": "7BAC42CB-139A-4230-BAD3-F6DE859228D9",
+                    "name": "Sanisfaction",
+                    "caption": "A bombed up hand sanitiser",
+                    "description": "A bombed up and effective hand sanitiser to keep in your car, or handy around home. It's labelled as 70% alcohol by volume, but has now become 80% since we printed the label, so it's very effective at knocking off 99.9% germs and other micro-nasties. To use, apply a small dollop into your hands and rub around your entire hands, fingers and thumbs until the Sanisfaction has dried.",
+                    "contents": ["a"],
+                    "size": [250],
+                    "price": [15.99],
+                    "image": "BOFURONA",
+                    "displayImage": ""
+                },{
+                    "id": "5CBC2771-EEC4-4400-874A-842449864C7F",
+                    "name": "Hand Relief",
+                    "caption": "A GERM KILLING ANTIBACTERIAL SOAP",
+                    "description": "Washing your hands is the single best and most effective way of keeping your hands germ free, so we've created this essential antibacterial wash soap that'll have the micro-nasties running for the hills. To use it, squeeze a small amount of Hand Relief into your hands, then gently massage it into your hands, fingers, around your thumbs etc for a minimum of 20 seconds, then rinse thoroughly and dry.",
+                    "contents": ["a"],
+                    "size": [250],
+                    "price": [7.99],
+                    "image": "BOHREL",
+                    "displayImage": ""
+                }
+            ]
+        },
+        {
+            "id": "D51DDD8B-C105-40B9-8A95-8C9F8EF52D3A",
+            "name": "Microfibre",
+            "image": "Microfibre",
+            "products": [
+                {
+                    "id": "05782E9F-513C-48E1-8259-386C064EAE70",
+                    "name": "Muffy Sponge",
+                    "caption": "Our unique microfibre washing sponge, makes washing safer and easier. You will love our Muffy.",
+                    "description": "Muffy Sponge, with its new mesh sides and softer plush fur on the top and bottom. It's a super safe wash sponge that will never scratch your car, that we've designed for the gentlest touch down-under.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [15.99],
+                    "image": "BOMUFF",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "197BAC4C-C8EC-4E44-8E76-86B55281F40B",
+                    "name": "Shagtastic Wash Pad",
+                    "caption": "SAFELY CLEANS THE FUNK OFF FAST!",
+                    "description": "What you need for an outta-sight clean. We developed this funky wash pad with some equally fussy enthusiasts and pro detailers, to give safe/scratch free washing that’s easier than ever before. The Shagtastic uses a plush blend of deep pile microfibres to give a zen-like clean, safely removing the funk and grime particles from your paint, holding them deep in the material until rinsed out, helping prevent annoying swirl marks on your precious baby. No tripping, it will blow your mind..",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [22.99],
+                    "image": "BOSHAG",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "4C14C56F-31FA-4A97-A34F-8BDA9CE2B984",
+                    "name": "The Wash Pillow",
+                    "caption": "Huge size for the ultimate in hand satisfaction",
+                    "description": "We lusted after a big sized wash tool and as has been said for many years, bigger can be better. This big blue Wash Pillow has been created for the ultimate in satisfaction, for fanatics who like to do it by hand. Its great 3 yarn microfibre is a plush, deep pile blend that we've found to be the best material for super effective cleaning, whilst also minimising the chance of ever creating swirls and micro scratches in your paint.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [39.99],
+                    "image": "BOWPILLOW",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "853D38B4-4AFE-40C2-B7DD-38822F42E015",
+                    "name": "Shagmittastic Wash Mitt",
+                    "caption": "When you can appreciate that some things are more fun by hand.",
+                    "contents": ["a"],
+                    "description": "The Shagamittastic Wash Mitt will appease even the fussiest car fanatics and pro detailers who love washing their car by hand. It safely removes funk and grime from your paint, holding it deep in the material until it's rinsed out, helping prevent annoying swirl marks being created on your precious ride.",
+                    "size": [1],
+                    "price": [30.99],
+                    "image": "BOSHAGM",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "D44A8D84-77DF-4D0C-B913-5B2912D1FF79",
+                    "name": "The Love Glove",
+                    "caption": "Super soft and safe microfibre wash mitt. Our aptly named \"The Love Glove\" is a pleasure to use.",
+                    "description": "We found that the majority of scratches on cars were created by badly designed sponges and wash mitts, as small hard particles get caught in the sponge or material weave and swirl up or micro-scratch the duco everytime they are used. Our solution was to use ultra microfibre so it is super soft and absorbent, but use a very short nap weave, to minimise particles get caught up in it.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [15.99],
+                    "image": "BOWM",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "8D6875E9-D189-433D-BF0F-EF4F3BB9C422",
+                    "name": "The Big Green Sucker",
+                    "caption": "THIS CLOTH SUCKS - ALL THE WATER FROM YOUR CAR",
+                    "description": "The super luxurious drying towel for all car and microfibre lovers! Developed in close collaboration with some fussy professional detailers to be the fastest and most effective tool for drying. Its thick, soft and plush weave is the most absorbent microfibre we have ever found and is exceptional at minimising errant dirt and grit missed while washing, from scratching your car.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [39.99],
+                    "image": "BOSUCKER",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "2D3F150A-A2A8-4057-953A-C99854A875AC",
+                    "name": "Little Ripper Chamois",
+                    "caption": "Our Little Ripper is for those who want a traditional chamois experience",
+                    "description": "Our Little Ripper is for those who want a traditional chamois experience",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [16.99],
+                    "image": "BOC",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "056B3B90-763A-427F-95C2-03F32347E23F",
+                    "name": "Big Bugger Chamois",
+                    "caption": "For the traditionalists, a great sized microfibre chamois that works.",
+                    "description": "For the traditionalists, a great sized microfibre chamois that works.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [23.99],
+                    "image": "BOSSC",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "F1BDDCD3-0E30-43C3-BF35-DA8D4B3A212A",
+                    "name": "Green CLean Glass Cloth",
+                    "caption": "Quickly cleans away inner windscreen haze",
+                    "description": "Ever travelled into the afternoon sun and been blinded thanks to a layer of haze on the interior glass? Well this cloth is for those moments, it's great microfibre material has full contact with the glass surface, so all cleaners, haze or residues get caught and removed into its fibres. This means you get a perfectly clean interior windscreen, that's easy to do while you're on the run.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [12.99],
+                    "image": "BOGC",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "D5D77E4D-5D4F-48A2-8577-C1BD092283BA",
+                    "name": "Circle Work - Gulf Colours 1",
+                    "caption": "a",
+                    "description": "To get beautiful looking paint, you need the right tools. We custom made this applicator mitt after our experiences in detailing many thousands of cars. It’s the right size, has the ideal microfibre material, a new non-scratch edging and that nice foam inside that makes sure you don’t get any finger pressure points, ensuring a perfect even surface to apply any cleanser, polish or wax to your car. With the new elastic back you won’t drop it either! You can even use it to apply interior cleansers and protectants.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": "BOAMY",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "D2AA723C-AB50-46B7-A8BF-7D913C654B77",
+                    "name": "BIG SOFTIE - GULF COLOURS",
+                    "caption": "a",
+                    "description": "If you’re after a decent sized and super effective quality microfibre cloth, this is made for you. The Big Softie is a short pile, feather soft ultra microfibre, ideal for removing wax, cleanser, polish, detailing sprays and glass cleaners from delicate surfaces. Our new micro-soft edges are soft and gentle for a perfect finish, without scratches and swirls!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": "BOBCY",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "F9931465-8927-4620-9347-FDD3F1DB806C",
+                    "name": "Circle Work",
+                    "caption": "a",
+                    "description": "To get beautiful looking paint, you need the right tools. We custom made this applicator mitt after our experiences in detailing many thousands of cars. It’s the right size, has the ideal microfibre material, a new non-scratch edging and that nice foam inside that makes sure you don’t get any finger pressure points, ensuring a perfect even surface to apply any cleanser, polish or wax to your car. With the new elastic back you won’t drop it either! You can even use it to apply interior cleansers and protectants.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": "BOAMP",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "D1088E67-E5CA-4F4D-A1CD-75D1A9B10830",
+                    "name": "Big Softie",
+                    "caption": "",
+                    "description": "If you’re after a decent sized and super effective quality microfibre cloth, this is made for you. The Big Softie is a short pile, feather soft ultra microfibre, ideal for removing wax, cleanser, polish, detailing sprays and glass cleaners from delicate surfaces. Our new micro-soft edges are soft and gentle for a perfect finish, without scratches and swirls!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": "BOBCP",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "5F17E5D1-87B2-4531-A874-379D7B7F4D46",
+                    "name": "The Drop Bear",
+                    "caption": "",
+                    "description": "THE LEGENDARY AUSTRALIAN FUR from one of the more vicious Australian native animals, the Drop Bear, Thylarctos Plummetus, strikes fear into any Australian who regularly ventures into the bush. This apex predator is renown for its tactic of ambushing prey from above, plummeting from as high as eight metres to make a surprise kill. With the wonders of modern science, we were able to reconstruct this animals majestic pelt in our labs, which can only be described as the most luxurious and beautiful material we have ever let touch our cars. Solving the issue for the fanatical car enthusiasts, who wanted a Drop Bear fur, but lacked the ability to hunt one for themselves.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [23.99],
+                    "image": "BODBEAR",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "3F3D8501-D5B1-4F12-9B94-5B9112243B40",
+                    "name": "The Inta-Mitt",
+                    "caption": "For perfect, streak and smear free glass cleaning.",
+                    "description": "Interior glass cleaning is something seen by many as a dark art to get right. So we created the Inta-Mitt from numerous trials of different materials to make something that's an awesome solution for this frustrating job. Use it with our Naked Glass for many memorable Inta-Mitt moments.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [19.99],
+                    "image": "BOINTA",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "860009A9-0E41-48D0-ACE4-BD2E32D2C0A1",
+                    "name": "Pluch Daddy",
+                    "caption": "Your interior will love the Daddy",
+                    "description": "The perfect cleaning cloth to help keep your interior looking fresh and new. The Plush Daddy is a unique dual purpose tool, one side being the super plush and luxurious ultra microfibre for fast cleaning of dust and finger mark around your interior. The other side is a low pile weave that is bang-on for removing leather, fabric and vinyl cleaning products, leaving a perfect finish every time.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [15.99],
+                    "image": "BODADDY",
+                    "displayImage": ""
+                    
+                },{
+                    "id": "8BC53ABA-5279-4FEA-AD10-0A6F046D2AD2",
+                    "name": "The Square Bear",
+                    "caption": "For applying all interior products",
+                    "description": "The Square Bear was created for even cleaning and application of all Leather, Vinyl and Fabric products over uneven interior surfaces. With its low absorbency microfibre, more product goes onto the surface you’re cleaning, rather than being wasted in the applicator. The cushioning sponge fits your hand, giving you great control to where you need the product to go, ending any overlap issues when you have areas with different (say leather and microsuede)materials next to each other. Your life is unbearable without this effective applicator.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [12.99],
+                    "image": "BOSBEAR",
+                    "displayImage": ""
+                    
+                },{
+                    
+                    "id": "AB70578D-5E76-4D99-8982-986AD6CEFF5B",
+                    "name": "Dirty Deeds",
+                    "caption": "For the tough & dirty jobs",
+                    "description": "The ideal cloth for the dirtier jobs around your car and bike. If you’re after a flawless finish, our Dirty Deeds is a true multi-purpose cloth, made specifically for fast and easy wheel cleaning or drying, inner door jambs, lower body & undercarriages, engine bay detailing, dirty interior cleaning and superb metal polishing. It's strong and durable, but still gentle enough that it won’t scratch or damage the areas you’re using it on. Get the dirty deeds done with this perfect all rounder.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [25.99],
+                    "image": "BODD",
+                    "displayImage": ""
+                    
+                },{
+                    
+                    "id": "F81EE99F-0793-4610-A0B1-2B1684B11117",
+                    "name": "Debugger Cloth",
+                    "caption": "For speedy bug splat removal",
+                    "description": "The bugger of Australian road trips is the bug splatter. Normal washing is not always enough to remove the carnage from your car, especially when you are unlucky enough to cop an attack from a huge swarm! But you can now simply remove them with this great cloth, quick, safe and easy, while washing your car.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": "BODEBUG",
+                    "displayImage": ""
+                    
+                },{
+                    
+                    "id": "F8A99F89-6199-4764-A782-290AF0BB4914",
+                    "name": "Microfibre Wash",
+                    "caption": "Restores softness & absobancy to microfibre",
+                    "description": "We use around 80 to 100 cloths and pads for detailing our own cars each month, and needed a wash to deep clean and restore the microfibre material back to new. Our chemists created this to focus on removing remnants of the detailing chemicals that normal washing detergents cannot remove. You will be quite amazed how well it works, especially on wax or cleanser application pads and removal cloths, removing all the residue so they will keep working like new for many years to come.",
+                    "contents": ["a"],
+                    "size": [125, 1000, 5000, 20000],
+                    "price": [9.99, 24.99, 79.99, 243.99],
+                    "image": "BOMWASH",
+                    "displayImage": ""
+                    
+                }
+            ]
+        },
+        {
+            
+            "id": "449E4057-B64C-402B-BAC1-A3EDB6C1C0EC",
+            "name": "Value Packs",
+            "image": "Value Packs",
+            "products": [
+                {
+                    
+                    "id": "28B0E7BB-4CD7-4CDD-B925-2F74594908F6",
+                    "name": "The Beautiful Beads Pack",
+                    "caption": "a",
+                    "description": "The Beautiful Beads Pack is a great combination of our Flash Prep spray to get a great clean surface for our mighty Bead Machine super hydrophobic sealant to work its very best. It also comes with 4 x Big Softie cloths to go with each of these two products.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [99.99],
+                    "image": "BOMACHINEP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "AB84B65B-C246-4B4D-9584-F9C74AE3D65E",
+                    "name": "The Black Box",
+                    "caption": "a",
+                    "description": "The Black Box is a complete kit for restoring and protecting faded black plastic trim. It comes with our Mr Black trim restorer, and everything else you'll need to complete the job like a pro, including a handy step by step instructional guide.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [88.99],
+                    "image": "BOBBOX",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "820B791E-C337-4235-B75E-E01C604E1E3F",
+                    "name": "Happy Ending Pack",
+                    "caption": "",
+                    "description": "A great pack of gear for you to help give your 4 wheeled friend a Happy Ending when you're using a pressure washer and our Snow Blow Cannon.",
+                    "contents": [],
+                    "size": [1],
+                    "price": [112.99],
+                    "image": "BOHAPPYP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "F4B957A7-F12C-455E-AD04-59A3306A1CF3", "name": "WET DREAMS PACK",
+                    "caption": "a",
+                    "description": "A great little pack of our Wet Dreams spray on, rinse off protective sealant and the Big Softie cloth you should use to spread it, for a perfect, even finish.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [47.99],
+                    "image": "BODREAMSP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "9F4551E0-B8A8-45C8-83C9-B0E73B245EBC", "name": "SNOW AND BLOW PACK",
+                    "caption": "a",
+                    "description": "A great combination pack of the Snow Blow Cannon with our custom Snow Job foam wash, that was created for regular use on all cars; modern and classic, even those with sensitive paint finishes. The thick and long lasting foam blankets the car, to loosen and dissolve heavier contaminants and grit from the painted surface, so you're no longer grinding this dirt and grit into your paint while you wash. Spray this through our awesome Snow Blow Cannon, to dramatically decrease the chance of getting any swirls or scratches when washing your car.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [139.99],
+                    "image": "BOSNOWPACK2L",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "224C793E-962E-474D-8C00-E2A3C688ED4A", "name": "NANOLICIOUS WASH PACK",
+                    "caption": "a",
+                    "description": "The ultimate washing pack with our most popular combination of gear. These products were all created as a system to dramatically reduce the chance of ever getting swirls or micro-scratching your paint while washing. You also get a cool bag :).",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [84.99],
+                    "image": "BONANOSP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "FD3091B0-B0F4-4855-9628-C4C8C694391B", "name": "WASH PACK",
+                    "caption": "a",
+                    "description": "Our very popular wash pack is all you need for the best wash under the southern cross.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [45.99],
+                    "image": "BOWAP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "6E6C5704-392A-4B53-BB73-A6D61709D7A3", "name": "LITTLE DETAILS PACK",
+                    "caption": "a",
+                    "description": "Our Mini Me Little Details Pack is a smart little kit of some of our favourite products for washing, drying, paint cleansing, enhancing and protecting your paint. We added the popular Naked Glass as well for keeping your glass clean! It's a really nice intro pack for those wishing to give our gear a go.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [51.99],
+                    "image": "BOLDP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "DC1EC3D2-53DA-42EE-BB61-6B59A462E101", "name": "ROAD TRIPPER PACK",
+                    "caption": "a",
+                    "description": "Our Mini Me Road Tripper Pack contains all the essentials for your next road trip. From cleaning your wheels, to cleaning off that pesky bug splatter, to washing and protecting your paint - we've even covered glass cleaning. It's a great companion kit to take with you on your next road trip to keep your ride looking nice while you're on the road!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [39.99],
+                    "image": "BORTP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "02C70D1F-6B11-438E-9797-DBDE05F396D6", "name": "THE INSIDE JOB PACK",
+                    "caption": "a",
+                    "description": "The Inside Job Pack is a great little pack for looking after and maintaining your cars interior. Keep it handy in your car, with the travel bag having a handy Velcro backing to easily stick to your boot carpet, so you can quickly clean up any issues as they happen.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [51.99],
+                    "image": "BOIJP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "632B4ACA-D474-47BA-8097-CB2B650BC304", "name": "AFTER GLOW PACK",
+                    "caption": "a",
+                    "description": "After Glow is a remarkable drying aid for the fussiests of car fanatics. It came from a near 2 year development project, with close to 90 different product formulations. Tonnes of testing has been done to perfect After Glow and get it to the point where it is now, and we're sure you'll love it as much as we do!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [57.99],
+                    "image": "BOGLOWP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "829D87A8-E330-47FA-8A27-54FA07A28BEF", "name": "CLAYING RUBBER PACK",
+                    "caption": "a",
+                    "description": "One of the first steps to shiny paint, is to return it to a nice and smooth finish, free from any bonded contaminants. This new Claying Rubber Pack combines the Claying Rubber and Three Way, and is what we’ve found to be the easiest, fastest and most effective way to remove these bonded contaminants in one simple step. Using this will help make your paint super smooth and remove embedded iron contamination in one simple step. It will also help to make the paint cleanser, waxes and sealant products easier to use, give a great shine and protect at their very best.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [68.99],
+                    "image": "BOFCRP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "4617447D-EE9B-4C3C-A986-301F33405456", "name": "CLAY BAR PACK",
+                    "caption": "a",
+                    "description": "For perfect, smooth and clean paint, this is the ideal pack. Ideal on cars older than a year, to make our paint cleanser easier to use and the wax, or Fully Slick last longer.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [53.99],
+                    "image": "BOCBP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "A03C1F48-5BA6-4A66-B913-368CDB66E3C5", "name": "PAINT REJUVENATION PACK",
+                    "caption": "a",
+                    "description": "Feel like your paint needs some love, then treat it to the good gear in this rejuvenation pack.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [54.99],
+                    "image": "BOCP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "716F9073-F790-41D1-B877-362330E43EFA", "name": "WAX PACK",
+                    "caption": "a",
+                    "description": "Give your paint some life, our wax pack is here to nourish, protect and bring out that beautiful, deep carnauba wax shine to your paint.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [58.99],
+                    "image": "BOWP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "BB09E4B5-3D12-4FD2-A7DD-0199DD2625C0", "name": "LAZY WAX PACK",
+                    "caption": "a",
+                    "description": "We don't think there is a single car lover who doesn't desire faster and easier to use car care, especially when it comes to waxing. This combo is by far the easiest way to wax your car, giving it a stunning show car shine and the natural protection that carnauba wax offers.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [69.99],
+                    "image": "BOLAZYP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "C4F77B0F-A6A7-4191-B17A-0511DD94CE24", "name": "FULLY SLICK PACK",
+                    "caption": "a",
+                    "description": "Create a protective, showroom shine in one quick step with this combo pack. Ideal for a quick spruce up before a show, or between washes and waxes.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [64.99],
+                    "image": "BOFS2P",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "9C79EE6D-A40D-4FF5-BAFC-B4756538F328", "name": "BOSS GLOSS PACK",
+                    "caption": "a",
+                    "description": "This pack combines our super glossy and easy to use Boss Gloss detailing spray and two of the super plush Drop Bear towels. It's a combination that we use to quickly spruce our own cars up either before a tour or at a car show.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [61.99],
+                    "image": "BOBOSSP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "7EE8F4F2-464A-4102-B6E4-1413EB522311", "name": "CLEAN DETAIL PACK",
+                    "caption": "a",
+                    "description": "If you're after the quickest clean and detail for your cars slighly dirtier areas, this little combo is perfect. No hassle cleaning for engine bays, door jambs,  hand prints, bird droppings and lots of other things when you need that bit more cleaning oomph in your detailing spray than protection. ",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [37.99],
+                    "image": "BODP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "5175B4CC-5C1D-44D2-BA13-32AB35203008", "name": "BUGGER OFF PACK",
+                    "caption": "a",
+                    "description": "After any long trip you're going to deal with cleaning bug strike marks from the nose of your car, bike or truck. This combo pack off the Bugger Off spray and DeBugger Cloth is what we see as the best and easiest way to tackle this job.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [30.99],
+                    "image": "BOBUGP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "1AC6C408-1BFF-4320-B334-DF941184AD17", "name": "NAKED AND INTA-MITT PACK",
+                    "caption": "a",
+                    "description": "This pack is a great way to get perfectly clean and streak free glass. Consisting of Naked Glass and The Inta-Mitt, it's sure to make glass cleaning easy!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [33.99],
+                    "image": "BONIP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "E4D1263A-DC82-4009-8AF1-0A90F3FA9F02", "name": "NAKED GLASS PACK",
+                    "caption": "a",
+                    "description": "All you need for perfectly clean glass, this pack comes with our fantastic Naked Glass and a well sized Big Softie cloth to ensure a perfect, smear free finish every time.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [28.99],
+                    "image": "BONGP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "C98F53C4-3055-4D46-A389-7790690BDCD5", "name": "VINYL CARE PACK",
+                    "caption": "a",
+                    "description": "Keep your plastic, rubber and vinyl beautifully clean and protected with this pack. Using the combination of our best products to provide easy and effective long-term care to your interior trim.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [47.99],
+                    "image": "BOVP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "7EACA638-8288-4AD8-9F2C-B84F6C516FD4", "name": "LEATHER CARE PACK",
+                    "caption": "a",
+                    "description": "Your leather will never look, feel and smell better. This pack includes everything you need to keep your leather like new:",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [75.99],
+                    "image": "BOLP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "78660087-80AB-4053-84ED-D0427F943683", "name": "METAL POLISHING PACK",
+                    "caption": "a",
+                    "description": "We love our Metal Polish to bring up the shine on any of the race wheels we have on the cars in our shed, as well as using it to clean chrome, stainless steel and even polish the windscreens on our many cars we use on the road.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [41.99],
+                    "image": "BOMPK",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "735EC834-6C60-4085-98FD-9153FB34A8BF", "name": "ENGINE BAY DETAIL PACK",
+                    "caption": "a",
+                    "description": "We get asked a lot about engine cleaning and these are the two products we love to use, for quick and effective cleaning on our many varied engine bays, whether it be modern or classic cars.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [57.99],
+                    "image": "BOEP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "1D1F19F0-FA81-42A8-8E3D-D5785692E9F7",
+                    "name": "VINYL AND PLASTIC REVIVAL PACK",
+                    "caption": "a",
+                    "description": "A partnership of two products that will really care for your vinyl, plastic and rubber exterior trims over the long term.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [68.99],
+                    "image": "BOVRP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "C6C53FBC-E475-4F95-A84E-7831B26D7440",
+                    "name": "WHEEL AND TYRE CARE PACK",
+                    "caption": "a",
+                    "description": "We made this special pack for you to care for your cars 4 round friends. It comes with two great products made just for the job.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [53.99],
+                    "image": "BOWTP2",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "37295B77-A814-4E59-885E-7335BAB1D678",
+                    "name": "MEGA FROTHER PACK",
+                    "caption": "a",
+                    "description": "Do you like to get your froth on and love the extra cleaning power of Mega Snow Job? This pack is for you! With this combo of The Frother, Mega Snow Job 5L and a 5L Pumpy Pump, you can get your froth on anywhere, anytime.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [152.99],
+                    "image": "BOMEGAFROTH5P",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "9AB59FA1-ACC4-401A-9453-B22C0A68FA49",
+                    "name": "MEGA SNOW & BLOW PACK",
+                    "caption": "a",
+                    "description": "A great value buy for people who want a cannon and love Mega Snow Job for their 4x4s and other recreational vehicles. Includes our Snow Blow Cannon, five litres of our Mega Snow Job heavy duty snow foam and a 5L Pumpy Pump for easy dispensing.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [197.99],
+                    "image": "BOMEGABLOW5P",
+                    "displayImage": ""
+                }
+            ]
+        },
+        {
+            
+            "id": "A662ECCF-1793-4F48-B0D3-EB36F6B994EE",
+            "name": "Car Care Kits",
+            "image": "Car Care Kits",
+            "products": [
+                {
+                    
+                    "id": "20995B62-4059-4DF9-A914-C367D02F2EEE", "name": "All Sorts",
+                    "caption": "a",
+                    "description": "a",
+                    "contents": ["Wash Bucket + Lid", "Great Barrier Thingy", "Nanolicious Wash", "Wheely Clean Mini Me", "Wet Dreams Mini Me", "Naked Glass Mini Me", "Boss Gloss Mini Me", "Shagtastic Wash Pad", "The Big Green Sucker", "Big Softie (Orange Piping)", "The Inta-Mitt", "Microfibre Wash Mini Me", "Information Pack"],
+                    "size": [1],
+                    "price": [189.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "5E4457DD-0DD5-43D9-88A6-D42C009862FF", "name": "BRAND SPANKING NEW KIT",
+                    "caption": "The kit specially designed for looking after the new addition to your family.",
+                    "description": "a",
+                    "contents": ["Buckets x 4 (Wash x 1, Rinse x 1, Wheels x 1, Microfibre x 1) + 2 Lids", "2 x Great Barrier Thingys", "Nanolicious Wash", "Circle Work (Blue Piping)", "Flash Prep", "Naked Glass", "Boss Gloss", "Bead Machine", "Shagtastic Wash Pad", "Claying Rubber", "The Square Bear", "The Big Green Sucker", "Plush Daddy", "6 x Big Softies (3 x Orange Piping, 3 x Blue Piping)", "Claying Rubber Guide", "Tyre Sheen", "Wheely Clean", "Paint Cleanse & Restore", "Three Way", "Vinyl Care", "Microfibre Wash", "Wet Dreams", "Wipe Out", "Little Chubby Brush", "The Foursome", "1 x Dirty Deeds Cloth", "All Sorts", "The Inta-Mitt", "Information Pack", "Detailing Day Invite"],
+                    "size": [1],
+                    "price": [669.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "A4F76BB3-0545-4E02-B61A-1F9FD711ADCC",
+                    "name": "CERAMIC COATING MAINTENANCE KIT",
+                    "caption": "If you've just dropped a fair chunk of coin on a professionally applied ceramic coating, you're probably going to want to keep it looking and working its best as long as possible. This kit contains a selection of products specially chosen to help look after your ceramic coated vehicle at every step: Safe pre-washing; hand washing with a wash specific to ceramic coatings; adding great protection and slickness to your coating; and finally safe drying to ensure you don't inflict any swirls and scratches into your freshly polished and coated paint work!",
+                    "description": "a",
+                    "contents": ["Buckets x 3 (Wash x 1, Rinse x 1, Wheels x 1) + 2 Lids", "2 x Great Barrier Thingys", "The Wash Pillow", "Wheely Clean", "Wet Dreams", "Snow Job 1L", "Snow Blow Cannon", "Happy Ending", "Happy Ending Cannon Bottle", "Dirty Deeds x 2", "Nanolicious Wash", "Bead Machine", "Boss Gloss", "Flash Prep", "The Big Green Sucker", "Big Softie x 5 (3 x Orange Piping, 2 x Blue Piping)", "Microfibre Wash", "Information Pack", "Detailing Day Invite"],
+                    "size": [1],
+                    "price": [589.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "93CDBEC3-1592-4F49-99F9-094C75D61353",
+                    "name": "CLASSIC FANATICS KIT",
+                    "caption": "A perfect combination to pamper your classic.",
+                    "description": "a",
+                    "contents": ["Buckets x 3 (Wash x 1, Rinse x 1, Wheels x 1) + 2 Lids", "Great Barrier Thingys x 2", "Wax Wash", "Paint Cleanse & Restore", "Beaut Beads & Applicators", "Orange Agent", "Circle Work (Blue Piping)", "The Square Bear", "Drop Bear x 3", "Dirty Deeds Cloth x 1", "Naked Glass", "Big Softie x 1 (Blue Piping)", "Shagtastic Wash Pad", "Tyre Sheen", "All Sorts x 1 (Yellow)", "Plush Daddy", "Microfibre Wash", "Vinyl Care", "Flash Prep", "Boss Gloss", "After Glow", "Big Softie x 3 (Orange Piping)", "The Inta-Mitt", "Fine Clay Bar", "Information Pack", "Detailing Day Invite"],
+                    "size": [1],
+                    "price": [649.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "E890367F-CDDC-4049-A58C-9D4B7611E8A3",
+                    "name": "SAFE WASH SYSTEM KIT",
+                    "caption": "For a very satisfying wash.",
+                    "description": "a",
+                    "contents": ["Buckets x 2 (Wash x 1, Rinse x 1) + 1 Bucket Lid", "2 x Great Barrier Things", "Snow Blow Cannon", "Snow Job 1L", "Nanolicious Wash", "Boss Gloss", "Shagtastic Wash Pad", "The Big Green Sucker", "1 x Dirty Deeds Cloth", "Microfibre Wash Mini Me", "Information Pack"],
+                    "size": [1],
+                    "price": [299.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "CE0E58F1-0898-49BE-9186-F38721052461",
+                    "name": "THE HOLY HUMONGOUS KIT",
+                    "caption": "For those who want it all. Our biggest kit, with 4 buckets chock full of car care goodness.",
+                    "description": "a",
+                    "contents": ["Buckets x 4 (Wash x 1, Rinse x 1, Microfibre x 1, Wheels x 1) + 3 Bucket Lids", "2 x Great Barrier Thingys", "Lazy Wax", "Bead Machine", "Fully Slick", "Wet Dreams", "Wheely Clean", "Orange Agent", "Tyre Sheen", "Vinyl Care", "Metal Polish", "Little Chubby Brush", "The Foursome", "Claying Rubber", "Paint Cleanse & Restore", "Nanolicious Wash", "Auto Body Gel", "Three Way", "Ta Ta Tar", "Happy Ending", "Shagamittastic Wash Mitt", "Drop Bear x 4", "Microfibre Wash", "Dirty Deeds x 2", "All Sorts", "Naked Glass", "Bugger Off", "Flash Prep", "Boss Gloss", "After Glow", "Far Cough", "The Square Bear", "Circle Work (Blue Piping)", "The Wash Pillow", "The Big Green Sucker", "The DeBugger", "Plush Daddy", "Big Softie x 8 (Orange Piping x 5, Blue Piping x 3)", "The Inta-Mitt", "Information Pack", "Detailing Day Invite"],
+                    "size": [1],
+                    "price": [999.99],
+                    "image": "a",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "62633D23-1264-4FA5-B487-DC0B5278A40A",
+                    "name": "MICROFIBRE LOVERS KIT",
+                    "caption": "AN ACCOMPANYING KIT FOR THE AUTOBARN ALL AUSSIE BUCKET",
+                    "description": "a",
+                    "contents": ["Microfibre Bucket", "Bucket lid", "Shagtastic Wash Pad", "Drop Bears", "Square Bear", "Big Softie", "Plush Daddy", "Microfibre Wash (125ml Mini Me)"],
+                    "size": [1],
+                    "price": [119.99],
+                    "image": "a",
+                    "displayImage": ""
+                }
+            ]
+        },
+        {
+            
+            "id": "DF7B096A-BB80-45AF-AA32-AE1C2FF6E828",
+            "name": "Detailing Tools",
+            "image": "Detailing Tools",
+            "products": [
+                {
+                    
+                    "id": "BF657D6F-C02B-45CB-A45E-B4817D2AE1BA", "name": "BLUE BALL BIG DADDY",
+                    "caption": "Makes bigger metal polishing jobs easy.",
+                    "description": "The Blue Ball Big Daddy makes bigger metal polishing jobs so easy, you’ll never polish by hand again. You’ll get stunning results when used with an electric drill and our metal polishes on non-coated and polishable alloy, stainless, billet wheels, bull bars, checker plate, fuel tanks and more. Made with a high quality, German low-density foam with thicker cut tabs for more efficient polishing power and better longevity.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [26.99],
+                    "image": "BOBLUBIG",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "5F8BE22B-0E5A-47D6-AAD7-A2E59F4BA813", "name": "BLUE BALL MINI ME",
+                    "caption": "Makes polishing more intricate metal areas a breeze.",
+                    "description": "The Blue Ball Mini Me makes metal polishing jobs so easy, you’ll never polish by hand again. You’ll get stunning results when used with any electric drill and our metal polishes on non-coated and polishable alloy, stainless, billet wheels, bull bars, checker plate, fuel tanks and more. Made with a high quality, German low-density foam with thicker cut tabs for more efficient polishing power.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [28.99],
+                    "image": "BOBLUMINI",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "1B77A1D7-B56D-4BA3-8F69-B4BC69731265", "name": "QUICK CONE",
+                    "caption": "For quick and easy metal polishing of flat and curved areas.",
+                    "description": "The Quick Cone is designed for the fastest and easiest polishing of non-coated, polishable metals, whether they’re flat areas or more tricky curved areas like deep dish or wider spoked wheels. This cone uses quality low-density German foam with a firm foam tip and cut tabs at the base, for more uniform polishing on curves. A generic drill bit is securely moulded into the foam and will quickly fit all electric drills. Use with either of our metal polishes for stunning results on alloy, steel, stainless, billet aluminium and much more.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [26.99],
+                    "image": "BOCONE",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "2CDCB091-7F53-4472-83D8-F5ABEB676FD5", "name": "THE FROTHER",
+                    "caption": "GET YOUR FROTH ON ANYWHERE, ANYTIME.",
+                    "description": "This quality built, portable hand held pressurised foamer for foaming without a pressure washer, when you're doing smaller detailing jobs or want to foam away from home. You can use it all around your vehicle with a variety of our water based car care products, including Snow Job and Mega Snow Job, Orange Agent, Wheely Clean, Sublime Clean and Fabra Cadabra.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [49.99],
+                    "image": "BOFROTH",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "B27F89AE-DEC2-4EEE-BFFE-A26E45C08970", "name": "ALL SORTS",
+                    "caption": "a",
+                    "description": "The All Sorts applicators are the perfect way to apply our Tyre Sheen. They use a quality German made foam, that's rigid enough to work on anything from low profile tyres, all the way through to 4x4 and truck tyres with raised lettering. They leave a beautiful, even finish, and help keep your hands away from the mess!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [13.99],
+                    "image": "BOASORTS",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "9B9D3B09-946D-44D4-B597-5145591FA9DA", "name": "BLACK APPS",
+                    "caption": "A DUAL LAYERED APPLICATOR FOR MR BLACK",
+                    "description": "We made these applicators for the perfect application of our Mr Black trim restorer. When testing we went through literally hundreds of different designs and foam types till we were happy with this one. ",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": "BOBLAP",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "1FD13C8E-231D-42AE-998D-353306105D97", "name": "SNOW BLOW CANNON BOTTLE",
+                    "caption": "CUSTOM MADE STUBBY DESIGN, THAT WON'T FALL OVER.",
+                    "description": "This handy Snow Blow Cannon Bottle is for our Snow Blow Cannon, and made to work with our Snow Job or the Happy Ending finishing foam.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [20.99],
+                    "image": "BOCB",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "C842EFA8-A6FD-4E26-8969-D878532E20CC", "name": "HAPPY ENDING CANNON BOTTLE",
+                    "caption": "CUSTOM MADE STUBBY DESIGN, THAT WON'T FALL OVER.",
+                    "description": "This handy Snow Blow Cannon bottle is for the Happy Ending finishing foam, to save you having to use the same bottle for both Snow Job and the Happy Ending foams.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [20.99],
+                    "image": "BOHCB",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "671BD77D-EA7B-4BD3-A8C5-ACFF396DB148", "name": "GREAT BARRIER THINGY",
+                    "caption": "",
+                    "description": "The Great Barrier Thingy is an integral part of our Safe Wash System, made up of our 3 dedicated 15 litre wash buckets for Wash, Rinse and Wheels. The Great Barrier Thingy fits the easily identifiable buckets for washing and rinsing to dramatically reduce the chance of any grit and grime from scratching your car.. All Aussie designed and made, we've invested in local businesses to get this project done, keeping money in the local industry.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [20.99],
+                    "image": "BOGBT",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "4B80DED7-91DF-444E-8A81-2D4A832F6F6F", "name": "Great Barrier Thingy - Double Banger Edition (2 x GBT)",
+                    "caption": "",
+                    "description": "The Great Barrier Thingy is an integral part of our Safe Wash System, made up of our 3 dedicated 15 litre wash buckets for Wash, Rinse and Wheels. The Great Barrier Thingy fits the easily identifiable buckets for washing and rinsing to dramatically reduce the chance of any grit and grime from scratching your car.. All Aussie designed and made, we've invested in local businesses to get this project done, keeping money in the local industry.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [38.99],
+                    "image": "BOGBTT",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "E89D91EC-BBFB-48FB-B2A9-9496D20A5D8E", "name": "THE FLAT HEAD BRUSH",
+                    "caption": "FOR EASY CLEANING OF INNER WHEEL BARRELS.",
+                    "description": "The Flat Head (AKA Flatty) is for easy inner wheel barrel cleaning of open spoke wheels found on many performance and luxury cars. Its custom design is totally metal-free, so it won’t ever scratch your wheels, also incorporating a non-slip textured handle, ideal for when you’re going at it hammer and tongs. Your hand will rejoice over the knuckle saver and remarkable, long hard shaft for going deep into the wheel, keeping you away from any messy grime. It’s taken us a solid year of trial and error to create this one, here's why you’ll enjoy detailing with our Aussie made Flatty.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [36.99],
+                    "image": "BOFHEAD",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "03463B40-86EF-4D95-8621-BF2EB7CC72BC", "name": "THE FLATTY SOCK",
+                    "caption": "BECAUSE SOMETIMES SOCKS WEAR OUT OR GET LOST",
+                    "description": "We spent years developing The Flat Head Brush (AKA The Flatty) to be built to last - as tough as we made the microfibre sock though, there was no way we could make it last as long as the hard plastic handle. But rather than make you guys buy a whole new brush when the sock wore out (or disappeared into that “black hole for socks” some washing machines seem to have), we’d rather offer a replacement sock... so you can have even more years of Flatty fun.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": "BOSOCK",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "166EBD14-F4F8-4B3B-A536-EAC925FF084F", "name": "THE LITTLE CHUBBY",
+                    "caption": "A VERY PLEASURABLE 9 INCH TOOL",
+                    "description": "The Little Chubby was custom created for us by a local Queensland brush maker, to suit more obsessive fanatics who wanted to safely detail delicate and expensive wheels. Using a solid plastic construction, we chose a soft synthetic bristle as our testing found the natural bristles would become brittle and damaged over time. This 5cm deep bristle will remain flexible, soft and very effective for years of great detailing. It also uses splayed out and sturdy feathered bristles, to be effective enough for the tougher detailing jobs, yet gentle and long lasting. We also added a chemical resistant neoprene bumper to further reduce the chance of ever harming your wheels.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [29.99],
+                    "image": "BOCHUBBY",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "34401A6D-A59C-4175-96C7-7B8CAD90E5BD", "name": "BIG BLACK ONE",
+                    "caption": "20 INCHES OF DETAILING JOY",
+                    "description": "This Big Black One was custom created for us by a local Queensland brush maker, to suit more obsessive fanatics who needed a good quality long handle brush. Using a solid plastic construction, we chose a soft synthetic bristle as our testing found the natural bristles would become brittle and damaged over time. This 5cm deep bristle will remain flexible and very effective for years of great detailing. It also uses splayed out and sturdy feathered bristles, to be effective enough for the tougher detailing jobs, yet gentle and long lasting. We also added a chemical resistant neoprene bumper, to further reduce the chance of ever bumping and harming your car.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [36.99],
+                    "image": "BOBLACK",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "38BB720A-EB6A-49FD-8F95-8711BB955070", "name": "THE FOURSOME",
+                    "caption": "WHEN ONE IS NOT ENOUGH",
+                    "description": "We have customised this great combination of 4 round detailing brushes for the more fanatical car care lovers out there. A single brush cannot do all the detailing jobs around our cars and bikes, so these different sizes will make lighter work of the more intricate detailing jobs when used with our various Aussie car care products. All brushes have non-slip handles, are metal free, with a quality plastic construction and a super soft boars hair that we personally chose for their longevity and to ensure they won’t ever scratch any delicate surfaces. We know you will love them as much as we do!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [31.99],
+                    "image": "BO4SOME",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "AADAF679-0C40-4A30-A9EB-945F5B96BA00", "name": "PLUSH BRUSH",
+                    "caption": "A soft bristle brush for cleaning many delicate surfaces.",
+                    "description": "This high quality brush was custom designed for us by a great Australian brush maker for safe, deep cleaning of larger fabric, canvas or vinyl surfaces around your car, truck, caravan or boat. You’ll be delighted of its effect when combined with our speciality water based cleaners for your ute tonneau, convertible roofs (both fabric and vinyl), canvas, bimini tops, awnings and more.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [30.99],
+                    "image": "BOPB",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "790BD67D-B3B9-406B-A368-420FF5BCBA89", "name": "THE WASH BUCKET",
+                    "caption": "OUR 15 LITRE, AUSSIE MADE BUCKET FOR YOUR WASH SUDS",
+                    "description": "Created for our Safe Wash System, this dedicated 15 litre wash bucket is part of our new bucket set for the safest clean of car or bike. We made these easily identifiable buckets for washing and rinsing as a two bucket wash technique, as it dramatically reduces the chance of any grit and grime from scratching your car. You use this bucket for your wash water and a 2nd rinse bucket for cleaning out your Muffy Sponge, Shagtastic Wash Pad, Wash Pillow, Shagamittastic Wash Mitt, or Love Glove mitt out before putting it back into your wash bucket. This simple system keeps the suds water clean and reduces the chance of any potentially scratching grit from ever damaging your cars paint. ",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": "BOBWASH",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "D45A95CC-9ED2-453C-BD53-A2CAEAE8AFF7", "name": "THE RINSE BUCKET",
+                    "caption": "OUR 15 LITRE, AUSSIE MADE BUCKET FOR YOUR RINSE WATER",
+                    "description": "Created for our Safe Wash System, this dedicated 15 litre rinse bucket is a part of our process to get the safest clean of any car, truck or bike. We made this and our Wash bucket easily identifiable for a two bucket wash technique, as it dramatically reduces the chance of any grit and grime from ever scratching your car. You use this bucket for your rinse water to clean out your Muffy Sponge, Shagtastic Wash Pad, Wash Pillow, Shagamittastic Wash Mitt, or Love Glove mitt before putting it back into your wash suds bucket. This simple system keeps the suds water clean and reduces the chance of any potentially scratching grit from ever damaging your cars paint.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": "BOBRINSE",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "63BA9A8A-5448-4BEC-B120-BB568E24E7C8", "name": "THE WHEELS BUCKET",
+                    "caption": "A DEDICATED 15 LITRE BUCKET FOR CLEANING YOUR WHEELS",
+                    "description": "Created for our Safe Wash System, this dedicated 15 litre Wheels Bucket is an addition to our 2 bucket Wash and Rinse set for the safest clean of your car, truck or bike. Made for the absolute fussiest detailing fanatics, you use this bucket for the real dirty job of washing your wheels, just add a double dose of your favourite wash and clean your wheels with wheel brushes and/or wheel woollies. As wheel washing is pretty much the dirtiest job around the car, you can use a 2 bucket method with our Rinse bucket for cleaning your wheel brushes out in it before going back into the Wheels bucket's suds. Just be sure to thoroughly rinse and wipe the Rinse bucket right out before using it for car washing, or better still, get a 2nd dedicated Rinse bucket for the job.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": "BOBWHEEL",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "CA70922B-73E9-48E9-BAD6-C45109081017", "name": "MICROFIBRE BUCKET",
+                    "caption": "Our 15L Aussie made bucket to put your microfibre cloths in.",
+                    "description": "This Le Mans race livery inspired Microfibre Bucket is for putting your dirty microfibre in after detailing your vehicle, so they can be washed, either in the bucket by hand or in a machine. We'd recommend grabbing one of our lids (available in 2 colour options) as they're a great place to keep your microfibre off the ground when detailing so you don't get errant dirt and grit in the cloths. Adding a lid also makes the bucket a safe and sealed, dust free spot to store your Microfibre in when you're not using it.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": "BOBMICR",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "93D4671B-E8B2-4E07-AC3C-2645DE57F665", "name": "SEALABLE BUCKET LID - PURPLE",
+                    "caption": "a",
+                    "description": "We like lids for our buckets, so we made this one to safely seal your washing gear away from any dirt and dust between washes.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [4.99],
+                    "image": "BOBLID",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "07B830E2-26C3-4D2F-8EA5-810CB5756DF9", "name": "THE SPINAL TABS",
+                    "caption": "APPLY TO OUR BOTTLE SPINES FOR EASY IDENTIFICATION.",
+                    "description": "These are something that was suggested to us through the Bowden's Own Detailers Facebook group. Some tabs for the side spines of all our bottles, so the products are easily identifiable if you keep the bottles facing out from their sides. Ideal for those using detailing trolleys or have tight shelf space, which is only going to get tighter as we always have more gear coming!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [9.99],
+                    "image": "BMSIDES",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "9FDA4F57-CE1E-493A-AF6C-5DFFC02CA90D", "name": "THE HOSE SLIDE PACK",
+                    "caption": "STOP HOSES & CORDS FROM GETTING CAUGHT AROUND TYRES",
+                    "description": "A cool little tool made by a young detailer after being faced with the common issue of having his electrical cords and hoses getting caught around his tyres. It drives us nuts, so we got these in and they work a bloody treat!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [25.99],
+                    "image": "BOHOSLIDE",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "24160EE3-DD44-4324-9BFD-EF01EBE6E806", "name": "CANYON PRO GRADE TRIGGER",
+                    "caption": "It's big and black, something many pro detailers will love.",
+                    "description": "If you do a lot of detailing, a big ergonomic trigger is always a winner. A favourite of many professionals, this Canyon trigger is the bigger brother of what we use on our different retail bottles.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [8.99],
+                    "image": "BOBIGBLACK",
+                    "displayImage": ""
+                },{
+                    
+                    "id": "3FE7D639-4622-4CE3-BC79-08675597C399", "name": "PUMPY PUMP - 5 LITRE BOTTLE",
+                    "caption": "Screws into our 5 litre bottles for easy and clean product dispersal.",
+                    "description": "The Pumpy Pump head screws straight into our 5 litre bottles, which is ideal for professionals or hardcore enthusiasts who buy the 5 litre bottles.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [12.99],
+                    "image": "BOPUMP5L",
+                    "displayImage": ""
+                },{
+                    "id": "E0786D45-31E0-4570-9748-4AB6199B00CA", "name": "PUMPY PUMP - 20 LITRE DRUM",
+                    "caption": "Screws into our 20 litre drums, for easy and clean product dispersal.",
+                    "description": "The Pumpy Pump head screws straight into our 20 litre drums, which is ideal for professionals or super hardcore enthusiasts who get this sized drum.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [20.99],
+                    "image": "BOPUMP20L",
+                    "displayImage": ""
+                }
+            ]
+        },
+        {
+            "id": "BD406BEB-1DE8-40D7-B144-63D15EFEA70A",
+            "name": "Merchandise",
+            "image": "Merchandise",
+            "products": [
+                {
+                    "id": "945FBFBE-D116-46E0-B69E-679BA57142B8",
+                    "name": "BEAD PORN FANATIC TEE Mens",
+                    "caption": "a",
+                    "description": "a",
+                    "contents": ["a"],
+                    "size": [1 ,2 ,3 ,4 ,5 ,6, 7],
+                    "price": [34.99],
+                    "image": "a",
+                    "displayImage": ""
+                },
+                {
+                    
+                    "id": "F4781E68-2D47-415E-85F2-8DE124085FE3",
+                    "name": "BEAD PORN FANATIC TEE Womens",
+                    "caption": "a",
+                    "description": "a",
+                    "contents": ["a"],
+                    "size": [1 ,2 ,3 ,4 ,5 ,6, 7],
+                    "price": [34.99],
+                    "image": "a",
+                    "displayImage": ""
+                },
+                {
+                    
+                    "id": "CB0CC538-5F03-4CE0-9689-035A1BFD4B7D",
+                    "name": "BOWDEN'S OWN TEAM CAP",
+                    "caption": "a",
+                    "description": "a",
+                    "contents": ["a"],
+                    "size": [1 ,2 ,3 ,4 ,5 ,6, 7],
+                    "price": [17.99, 102.99],
+                    "image": "a",
+                    "displayImage": ""
+                }
+            ]
+        },
+        {
+            "id": "8386B90F-9264-4D10-AE69-8FD91F2431EC",
+            "name": "New Products",
+            "image": "New Products",
+            "products": [
+                {
+                    "id": "209F67A5-22B5-4733-AB7B-CF3F3616211D",
+                    "name": "something new",
+                    "caption": "a",
+                    "description": "a",
+                    "contents": ["a"],
+                    "size": [1 ,2 ,3 ,4 ,5 ,6, 7],
+                    "price": [34.99],
+                    "image": "a",
+                    "displayImage": ""
+                }
+            ]
+        }
+    ]
+}

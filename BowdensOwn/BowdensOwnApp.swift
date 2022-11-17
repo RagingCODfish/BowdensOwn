@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct BowdensOwnApp: App {
+    @StateObject var menu = Menu()
+    @StateObject var cart = Cart()
     var body: some Scene {
         WindowGroup {
             MainView()
+                .environmentObject(menu)
+                .environmentObject(cart)
         }
     }
 }

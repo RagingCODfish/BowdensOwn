@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Leather Love",
+        "caption": "Gently cleans and conditions leather in one quick step, restoring its natural feel and sheen",
+        "description": "We know your leather needs our love. It took us a couple of years to create and perfect this great leather cleaner/conditioner. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference great car care can make.",
+        "size": [125, 500, 2000, 5000, 20000],
+        "price": [7.99, 22.99, 64.99, 134.99, 429.99],
+        "image": "BOLL"
+    },
+    {
+        "name": "Naked Glass",
+        "caption": "New epic formula - a non streaking cleaner for perfectly clear and bare glass",
+        "description": "Words cannot express how much we love this glass cleaner. With the hundreds of windows we clean each year it was important to have a product that does the job both fast, easy and streak free. Just spray into a Inta-Mitt or low pile side of the Big Softie microfibre cloth, wipe the glass over, then turn cloth to a dry side and buff off to show perfectly clean glass. This is something every car fanatic needs in their car care arsenal.",
+        "size": [125, 500, 5000, 20000],
+        "price": [7.99, 17.99, 102.99, 183.99],
+        "image": "BONG"
+    },{
+        "name": "VINYL CARE",
+        "caption": "A unique, silicone free dash and trim protectant.",
+        "description": "Our world first silicone free interior cleaner and protectant. Using it regularly will look after all your cars interior vinyl, artificial leather, plastic and rubber. This is a formula that we are very proud of, and we know you'll love using to care for your cars trim.",
+        "size": [125, 500, 5000],
+        "price": [8.99, 23.99, 185.99],
+        "image": "BOVC"
+        
+    },{
+        "name": "LEATHER GUARD",
+        "caption": "Gives your leather the needed protection from daily wear and tear",
+        "description": "Made to work with the Leather Love cleaner/conditioner, this formula took us a couple of years to perfect. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference a great leather care system can make.",
+        "size": [125, 500, 5000],
+        "price": [11.99, 30.99, 191.99],
+        "image": "BOLG"
+        
+    },{
+        "name": "FABRA CADABRA",
+        "caption": "MAGIC DEEP-CLEANING FORMULA FOR MANY INTERIOR FABRICS.",
+        "description": "A professional grade, fabric cleaning solution that really works. The new deeper cleaning formula is even better at removing dirt, oil, yellowing and most other stains, whilst it's also great at removing odours too. With the vast amount of late model cars using fabrics for interiors, we custom made this just for the task. As it's solvent free, it's ideal for cleaning the more delicate Alcantara and micro-suede materials as well.",
+        "size": [125, 500, 5000],
+        "price": [9.99, 20.99, 137.99],
+        "image": "BOFAB"
+    },{
+        "name": "FABRATECTION",
+        "caption": "A WATER BASED, SUPER HYDROPHOBIC FABRIC PROTECTANT.",
+        "description": "Our pro-grade super hydrophobic fabric protectant is something we are really proud to now have in the range, after having to abort this product many years ago due to the environmental concerns with it. Water based, it's safe, biodegradable and works awesome to help keep your fabric protected from stains. ",
+        "size": [125, 500],
+        "price": [16.99, 46.99],
+        "image": ""
+    },{
+        "name": "PONG-GO",
+        "caption": "Eliminates stubborn and offensive odours from your car, van, truck and boat",
+        "description": "If you have kids, pets, have a mouldy/musty smell coming from the AC, inherited a smokers car, or just have very mischievous 'mates' leaving prawn heads under your seats, this is the gear for you.",
+        "size": [125, 500, 5000],
+        "price": [9.99, 20.99, 154.99],
+        "image": ""
+    },{
+        "name": "FAR COUGH",
+        "caption": "Eliminate germs, bacteria & other micro-nasties",
+        "description": "A strong antibacterial spray that's safe for all surfaces, including delicate car interiors. It eliminates germs, bacteria and other micro-nasties in a safe and effective manner. Perfect for use in the car or the home.",
+        "size": [125, 770],
+        "price": [10.99, 15.99],
+        "image": "BOFARC"
+    },{
+        "name": "SANISFACTION",
+        "caption": "A bombed up hand sanitiser",
+        "description": "A bombed up and effective hand sanitiser to keep in your car, or handy around home. It's labelled as 70% alcohol by volume, but has now become 80% since we printed the label, so it's very effective at knocking off 99.9% germs and other micro-nasties. To use, apply a small dollop into your hands and rub around your entire hands, fingers and thumbs until the Sanisfaction has dried.",
+        "size": [250],
+        "price": [15.99],
+        "image": "BOFURONA"
+    },{
+        "name": "HAND RELIEF",
+        "caption": "A GERM KILLING ANTIBACTERIAL SOAP",
+        "description": "Washing your hands is the single best and most effective way of keeping your hands germ free, so we've created this essential antibacterial wash soap that'll have the micro-nasties running for the hills. To use it, squeeze a small amount of Hand Relief into your hands, then gently massage it into your hands, fingers, around your thumbs etc for a minimum of 20 seconds, then rinse thoroughly and dry.",
+        "size": [250],
+        "price": [7.99],
+        "image": "BOHREL"
+    }
+]

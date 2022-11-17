@@ -1,0 +1,38 @@
+[
+    {
+        "name": "All Sorts",
+        "caption": "",
+        "contents": ["Wash Bucket + Lid", "Great Barrier Thingy", "Nanolicious Wash", "Wheely Clean Mini Me", "Wet Dreams Mini Me", "Naked Glass Mini Me", "Boss Gloss Mini Me", "Shagtastic Wash Pad", "The Big Green Sucker", "Big Softie (Orange Piping)", "The Inta-Mitt", "Microfibre Wash Mini Me", "Information Pack"],
+        "price": 189.99
+    },{
+        "name": "BRAND SPANKING NEW KIT",
+        "caption": "The kit specially designed for looking after the new addition to your family.",
+        "contents": ["Buckets x 4 (Wash x 1, Rinse x 1, Wheels x 1, Microfibre x 1) + 2 Lids", "2 x Great Barrier Thingys", "Nanolicious Wash", "Circle Work (Blue Piping)", "Flash Prep", "Naked Glass", "Boss Gloss", "Bead Machine", "Shagtastic Wash Pad", "Claying Rubber", "The Square Bear", "The Big Green Sucker", "Plush Daddy", "6 x Big Softies (3 x Orange Piping, 3 x Blue Piping)", "Claying Rubber Guide", "Tyre Sheen", "Wheely Clean", "Paint Cleanse & Restore", "Three Way", "Vinyl Care", "Microfibre Wash", "Wet Dreams", "Wipe Out", "Little Chubby Brush", "The Foursome", "1 x Dirty Deeds Cloth", "All Sorts", "The Inta-Mitt", "Information Pack", "Detailing Day Invite"],
+        "price": 669.99
+    },{
+        "name": "CERAMIC COATING MAINTENANCE KIT",
+        "caption": "If you've just dropped a fair chunk of coin on a professionally applied ceramic coating, you're probably going to want to keep it looking and working its best as long as possible. This kit contains a selection of products specially chosen to help look after your ceramic coated vehicle at every step: Safe pre-washing; hand washing with a wash specific to ceramic coatings; adding great protection and slickness to your coating; and finally safe drying to ensure you don't inflict any swirls and scratches into your freshly polished and coated paint work!",
+        "contents": ["Buckets x 3 (Wash x 1, Rinse x 1, Wheels x 1) + 2 Lids", "2 x Great Barrier Thingys", "The Wash Pillow", "Wheely Clean", "Wet Dreams", "Snow Job 1L", "Snow Blow Cannon", "Happy Ending", "Happy Ending Cannon Bottle", "Dirty Deeds x 2", "Nanolicious Wash", "Bead Machine", "Boss Gloss", "Flash Prep", "The Big Green Sucker", "Big Softie x 5 (3 x Orange Piping, 2 x Blue Piping)", "Microfibre Wash", "Information Pack", "Detailing Day Invite"],
+        "price": 589.99
+    },{
+        "name": "CLASSIC FANATICS KIT",
+        "caption": "A perfect combination to pamper your classic.",
+        "contents": ["Buckets x 3 (Wash x 1, Rinse x 1, Wheels x 1) + 2 Lids", "Great Barrier Thingys x 2", "Wax Wash", "Paint Cleanse & Restore", "Beaut Beads & Applicators", "Orange Agent", "Circle Work (Blue Piping)", "The Square Bear", "Drop Bear x 3", "Dirty Deeds Cloth x 1", "Naked Glass", "Big Softie x 1 (Blue Piping)", "Shagtastic Wash Pad", "Tyre Sheen", "All Sorts x 1 (Yellow)", "Plush Daddy", "Microfibre Wash", "Vinyl Care", "Flash Prep", "Boss Gloss", "After Glow", "Big Softie x 3 (Orange Piping)", "The Inta-Mitt", "Fine Clay Bar", "Information Pack", "Detailing Day Invite"],
+        "price": 649.99
+    },{
+        "name": "SAFE WASH SYSTEM KIT",
+        "caption": "For a very satisfying wash.",
+        "contents": ["Buckets x 2 (Wash x 1, Rinse x 1) + 1 Bucket Lid", "2 x Great Barrier Things", "Snow Blow Cannon", "Snow Job 1L", "Nanolicious Wash", "Boss Gloss", "Shagtastic Wash Pad", "The Big Green Sucker", "1 x Dirty Deeds Cloth", "Microfibre Wash Mini Me", "Information Pack"],
+        "price": 299.99
+    },{
+        "name": "THE HOLY HUMONGOUS KIT",
+        "caption": "For those who want it all. Our biggest kit, with 4 buckets chock full of car care goodness.",
+        "contents": ["Buckets x 4 (Wash x 1, Rinse x 1, Microfibre x 1, Wheels x 1) + 3 Bucket Lids", "2 x Great Barrier Thingys", "Lazy Wax", "Bead Machine", "Fully Slick", "Wet Dreams", "Wheely Clean", "Orange Agent", "Tyre Sheen", "Vinyl Care", "Metal Polish", "Little Chubby Brush", "The Foursome", "Claying Rubber", "Paint Cleanse & Restore", "Nanolicious Wash", "Auto Body Gel", "Three Way", "Ta Ta Tar", "Happy Ending", "Shagamittastic Wash Mitt", "Drop Bear x 4", "Microfibre Wash", "Dirty Deeds x 2", "All Sorts", "Naked Glass", "Bugger Off", "Flash Prep", "Boss Gloss", "After Glow", "Far Cough", "The Square Bear", "Circle Work (Blue Piping)", "The Wash Pillow", "The Big Green Sucker", "The DeBugger", "Plush Daddy", "Big Softie x 8 (Orange Piping x 5, Blue Piping x 3)", "The Inta-Mitt", "Information Pack", "Detailing Day Invite"],
+        "price": 999.99
+    },{
+        "name": "MICROFIBRE LOVERS KIT",
+        "caption": "AN ACCOMPANYING KIT FOR THE AUTOBARN ALL AUSSIE BUCKET",
+        "contents": ["Microfibre Bucket", "Bucket lid", "Shagtastic Wash Pad", "Drop Bears", "Square Bear", "Big Softie", "Plush Daddy", "Microfibre Wash (125ml Mini Me)"],
+        "price": 119.99
+    }
+]

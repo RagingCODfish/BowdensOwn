@@ -1,0 +1,17 @@
+[
+    {
+        "name": "BEAD PORN FANATIC TEE Mens",
+        "size": ["S", "M", "L", "XL", "XXL", "3XL"],
+        "price": 34.99
+    },
+    {
+        "name": "BEAD PORN FANATIC TEE Womens",
+        "size": ["8", "10", "12", "14", "16", "18"],
+        "price": 34.99
+    },
+    {
+        "name": "BOWDEN'S OWN TEAM CAP",
+        "size": [500, 5000],
+        "price": [17.99, 102.99]
+    }
+]
