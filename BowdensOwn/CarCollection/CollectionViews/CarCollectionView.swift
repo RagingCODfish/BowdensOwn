@@ -10,14 +10,13 @@ import SwiftUI
 struct CarCollectionView: View {
     @EnvironmentObject var collection: CarCollectionMenu
     @State private var showingDetail = false
-    @State var selectedCar: Car?
+//    @State var selectedCar: Car?
     var body: some View {
         NavigationView {
             List {
                 ForEach(collection.collection, id: \.self) { car in
-                    Button {
-                        selectedCar = car
-                        showingDetail.toggle()
+                    NavigationLink {
+                        CarView(car: car)
                     } label: {
                         HStack {
                             Image(car.images[0])
@@ -35,9 +34,9 @@ struct CarCollectionView: View {
                     }
                 }
             }
-            .sheet(isPresented: $showingDetail) {
-                CarView(car: selectedCar ?? Car.carExample)
-            }
+//            .sheet(isPresented: $showingDetail) {
+//                CarView(car: selectedCar ?? Car.carExample)
+//            }
             .navigationTitle("Bowdens Collection")
             .navigationBarTitleDisplayMode(.automatic)
             .listStyle(.plain)
@@ -47,7 +46,7 @@ struct CarCollectionView: View {
 
 struct CarCollectionView_Previews: PreviewProvider {
     static var previews: some View {
-        CarCollectionView(selectedCar: .carExample)
+        CarCollectionView()
             .environmentObject(CarCollectionMenu())
     }
 }

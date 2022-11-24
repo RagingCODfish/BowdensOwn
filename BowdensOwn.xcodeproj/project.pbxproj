@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44266699292E685E0023C7DD /* MyGarageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44266698292E685E0023C7DD /* MyGarageView.swift */; };
+		4426669B292E71490023C7DD /* MyProductsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4426669A292E71490023C7DD /* MyProductsView.swift */; };
+		4426669D292E71A10023C7DD /* MyProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4426669C292E71A10023C7DD /* MyProducts.swift */; };
+		442666A5292E78FC0023C7DD /* ProductGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442666A4292E78FC0023C7DD /* ProductGridView.swift */; };
+		442666A7292E7B9B0023C7DD /* ProductsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442666A6292E7B9B0023C7DD /* ProductsView.swift */; };
 		444B6BA22925541300DE1BE4 /* EmptyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 444B6BA12925541300DE1BE4 /* EmptyState.swift */; };
 		444B6BA4292561CB00DE1BE4 /* PaymentButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 444B6BA3292561CB00DE1BE4 /* PaymentButton.swift */; };
 		444B6BA8292562BB00DE1BE4 /* PaymentHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 444B6BA7292562BB00DE1BE4 /* PaymentHandler.swift */; };
@@ -59,6 +64,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		44266698292E685E0023C7DD /* MyGarageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGarageView.swift; sourceTree = "<group>"; };
+		4426669A292E71490023C7DD /* MyProductsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProductsView.swift; sourceTree = "<group>"; };
+		4426669C292E71A10023C7DD /* MyProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProducts.swift; sourceTree = "<group>"; };
+		442666A4292E78FC0023C7DD /* ProductGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductGridView.swift; sourceTree = "<group>"; };
+		442666A6292E7B9B0023C7DD /* ProductsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsView.swift; sourceTree = "<group>"; };
 		444B6BA12925541300DE1BE4 /* EmptyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyState.swift; sourceTree = "<group>"; };
 		444B6BA3292561CB00DE1BE4 /* PaymentButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentButton.swift; sourceTree = "<group>"; };
 		444B6BA7292562BB00DE1BE4 /* PaymentHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentHandler.swift; sourceTree = "<group>"; };
@@ -123,6 +133,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		44266697292E66A70023C7DD /* My Garage */ = {
+			isa = PBXGroup;
+			children = (
+				44266698292E685E0023C7DD /* MyGarageView.swift */,
+				4426669A292E71490023C7DD /* MyProductsView.swift */,
+				4426669C292E71A10023C7DD /* MyProducts.swift */,
+			);
+			path = "My Garage";
+			sourceTree = "<group>";
+		};
 		444EDA3029212DA8006D2291 /* JSON Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -172,6 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				446D3CD728C71B3E00723CDD /* MainView.swift */,
+				44266697292E66A70023C7DD /* My Garage */,
 				4496F8CC2928F5DA00BEBBD4 /* Guides */,
 				4496F8CB2928F5D000BEBBD4 /* Search */,
 				44D70F7E292B18650048DE2D /* CarCollection */,
@@ -258,7 +279,9 @@
 			children = (
 				44C3240D28E484B6001EEAD6 /* CategoryView.swift */,
 				444EDA622924E1A3006D2291 /* CategoryCardView.swift */,
+				442666A6292E7B9B0023C7DD /* ProductsView.swift */,
 				444EDA602923CEAA006D2291 /* ProductListView.swift */,
+				442666A4292E78FC0023C7DD /* ProductGridView.swift */,
 				446D3CEC28C72D8100723CDD /* ProductDetailView.swift */,
 				4496F8D42928F62000BEBBD4 /* DetailView.swift */,
 				4496F8B92927B90B00BEBBD4 /* ProductRowCardView.swift */,
@@ -437,10 +460,13 @@
 				44C3240E28E484B6001EEAD6 /* CategoryView.swift in Sources */,
 				444EDA7829253B45006D2291 /* FileManager-DocumentsDirectory.swift in Sources */,
 				444EDA6F29251D21006D2291 /* Order.swift in Sources */,
+				4426669D292E71A10023C7DD /* MyProducts.swift in Sources */,
 				4496F8DC2928FA5100BEBBD4 /* GuideMenu.swift in Sources */,
+				44266699292E685E0023C7DD /* MyGarageView.swift in Sources */,
 				44D70F80292B18D00048DE2D /* Car.swift in Sources */,
 				44D70F7B292A5B2F0048DE2D /* GuideStep.swift in Sources */,
 				444B6BAE2927896200DE1BE4 /* AddToCartButton.swift in Sources */,
+				442666A5292E78FC0023C7DD /* ProductGridView.swift in Sources */,
 				44D8F378292A3848005B5FB8 /* GuideDetailView.swift in Sources */,
 				446D3CDD28C71D7300723CDD /* GuidesView.swift in Sources */,
 				444EDA632924E1A3006D2291 /* CategoryCardView.swift in Sources */,
@@ -460,11 +486,13 @@
 				446D3CD828C71B3E00723CDD /* MainView.swift in Sources */,
 				444EDA682924EA95006D2291 /* Styles.swift in Sources */,
 				446D3CCA28C71A8C00723CDD /* BowdensOwnApp.swift in Sources */,
+				4426669B292E71490023C7DD /* MyProductsView.swift in Sources */,
 				4496F8E22928FC7D00BEBBD4 /* GuideCategory.swift in Sources */,
 				44D70F8F292BB35E0048DE2D /* VideoView.swift in Sources */,
 				4496F8DA2928F86000BEBBD4 /* Guide.swift in Sources */,
 				444EDA5B292371B1006D2291 /* Product.swift in Sources */,
 				444EDA5D29237254006D2291 /* Category.swift in Sources */,
+				442666A7292E7B9B0023C7DD /* ProductsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -606,7 +634,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.zacharyuptin.BowdensOwn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -639,7 +667,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.zacharyuptin.BowdensOwn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";

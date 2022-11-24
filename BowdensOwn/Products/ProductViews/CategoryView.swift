@@ -20,16 +20,17 @@ struct CategoryView: View {
     var body: some View {
         NavigationView {
             ScrollView {
-                if !searchText.isEmpty {
-                    AllProductsListView()
-                } else {
+//                if !searchText.isEmpty {
+//                    AllProductsListView()
+//                } else {
                     LazyVGrid(columns: columns) {
                         ForEach(menu.sections) { category in
                             NavigationLink {
-                                ProductListView(category: category)
+                                ProductsView(category: category)
+                                    
                             } label: {
                                 CategoryCardView(category: category)
-                            }
+//                            }
                         }
                     }
                 }

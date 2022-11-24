@@ -12,32 +12,68 @@ struct MainView: View {
     @EnvironmentObject var cart: Cart
     @EnvironmentObject var guideMenu: GuideMenu
     
+    @State private var selection = 2
+    
     var body: some View {
-        TabView {
+        TabView(selection: $selection) {
             CategoryView()
                 .tabItem {
-                    Label("Products", systemImage: "car")
+                    if selection == 0 {
+                        Label("Shop", systemImage: "car")
+                    } else {
+                        Label("Shop", systemImage: "car.side")
+                    }
                 }
+                .tag(0)
+            
             CartView()
                 .tabItem {
-                    Label("Bag", systemImage: "bag")
+                    if cart.orderItems.count > 49 {
+                        Label("Evergreen", systemImage: "ferry")
+                    } else if cart.orderItems.count > 29 {
+                        Label("Cargo Aircraft", systemImage: "airplane.departure")
+                    } else if cart.orderItems.count > 19 {
+                        Label("Truck", systemImage: "box.truck")
+                    } else if cart.orderItems.count > 9 {
+                        Label("Cart", systemImage: "cart")
+                    } else if cart.orderItems.count > 4  {
+                        Label("Basket", systemImage: "basket")
+                    } else {
+                        Label("Bag", systemImage: "bag")
+                    }
                 }
                 .badge(cart.orderItems.count)
+                .tag(1)
                 
+            MyGarageView()
+                .tabItem {
+                    if selection == 2 {
+                        Label("My Garage", systemImage: "door.garage.open")
+                    } else {
+                        Label("My Garage", systemImage: "door.garage.closed")
+                    }
+                }
+                .tag(2)
+            
             CarCollectionView()
                 .tabItem {
-                    Label("Collection", systemImage: "newspaper")
+                        if selection == 3 {
+                            Label("Collection", systemImage: "book")
+                        } else {
+                            Label("Collection", systemImage: "book.closed")
+                        }
                 }
-            SearchView()
-                .tabItem {
-                    Label("Search", systemImage: "magnifyingglass")
-                }
+                .tag(3)
+            
             GuidesView()
                 .tabItem {
-                    Label("Guides", systemImage: "info")
+                    if selection == 4 {
+                        Label("Guides", systemImage: "doc.text.magnifyingglass")
+                    } else {
+                        Label("Guides", systemImage: "doc.plaintext")
+                    }
                 }
-            
-            
+                .tag(4)
         }
     }
 }

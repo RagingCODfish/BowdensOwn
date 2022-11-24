@@ -33,11 +33,11 @@ struct ProductDetailView: View {
                 Text("$\(product.price[selectedSize], specifier: "%.2f")")
                 
                 if product.price.count > 1 {
-                    Picker("Size", selection: $selectedSize, content: {
-                        ForEach(0..<product.price.count, id: \.self, content: { index in
+                    Picker("Size", selection: $selectedSize) {
+                        ForEach(0..<product.price.count, id: \.self) { index in
                             Text("\(product.size[index])ml")
-                        })
-                    })
+                        }
+                    }
                     .pickerStyle(.segmented)
                     .padding()
                 }

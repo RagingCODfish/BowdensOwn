@@ -32,12 +32,12 @@ struct GuideDetailView: View {
                             .padding(.horizontal)
                         
 
-                        if !step.video.isEmpty {
-                            VideoView(videoID: step.video)
-                                .frame(width: 350, height: 190)
-                                .cornerRadius(12)
-                                .padding(.horizontal, 24)
-                        }
+//                        if !step.video.isEmpty {
+//                            VideoView(videoID: step.video)
+//                                .frame(width: 360, height: 300)
+//                                .cornerRadius(12)
+//                                .padding(.horizontal, 24)
+//                        }
                     }
                     .padding()
                 }

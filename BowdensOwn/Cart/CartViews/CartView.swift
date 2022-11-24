@@ -47,7 +47,6 @@ struct CartView: View {
                                 }
                             }
                     }
-//                    .padding()
                     .listStyle(InsetListStyle())
                     .listRowSeparator(.hidden)
                     
