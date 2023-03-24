@@ -56,6 +56,11 @@ class Cart: ObservableObject {
         }
     }
     
+    func deleteAll() {
+        orderItems.removeAll()
+        save()
+    }
+    
     func pay() {
         paymentHandler.startPayment(orderItems: orderItems, total: totalPrice) { success in
             if success == true {

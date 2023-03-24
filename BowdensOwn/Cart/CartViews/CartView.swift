@@ -10,9 +10,10 @@ import SwiftUI
 
 struct CartView: View {
     @EnvironmentObject var cart: Cart
+    @State private var showingAlert = false
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             if cart.paymentSuccess {
                 Text("Thanks for your order")
             } else {
@@ -20,13 +21,16 @@ struct CartView: View {
                     EmptyState(message: "Your bag is empty")
                 } else {
                         List (cart.orderItems) { item in
-                            
                             Label {
                                 HStack {
                                     Spacer()
                                     VStack(alignment: .trailing) {
                                         Text(item.name)
-                                        Text("$\(item.price, specifier: "%.2f")")
+                                        HStack {
+                                            
+                                            Text("$\(item.price, specifier: "%.2f")")
+                                        }
+                                        
                                     }
                                 }
                                 
@@ -37,6 +41,7 @@ struct CartView: View {
                                     .frame(width: 100)
                             }
                             .padding(.horizontal, 20)
+                            
                             .swipeActions {
                                 Button(role: .destructive) {
                                     withAnimation {
@@ -46,10 +51,19 @@ struct CartView: View {
                                     Label("Delete", systemImage: "trash")
                                 }
                             }
+                            .listRowSeparator(.hidden)
                     }
                     .listStyle(InsetListStyle())
-                    .listRowSeparator(.hidden)
                     
+                    .toolbar {
+                        Button("Empty") {
+                            showingAlert = true
+                        }
+                        .alert("Are you sure you want to remove all items?", isPresented: $showingAlert) {
+                            Button("Yes", role: .destructive) { cart.deleteAll() }
+                            Button("No", role: .cancel) {}
+                        }
+                    }
                     .safeAreaInset(edge: .bottom) {
                         PaymentButton(action: cart.pay)
                             .disabled(cart.orderItems.isEmpty)
@@ -64,8 +78,10 @@ struct CartView: View {
                 }
             }
         }
+
         .environmentObject(cart)
     }
+    
 }
 
 struct CartView_Previews: PreviewProvider {

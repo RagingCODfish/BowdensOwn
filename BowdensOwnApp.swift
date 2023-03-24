@@ -13,6 +13,7 @@ struct BowdensOwnApp: App {
     @StateObject var cart = Cart()
     @StateObject var guide = GuideMenu()
     @StateObject var collection = CarCollectionMenu()
+    @StateObject var garage = Garage()
     var body: some Scene {
         WindowGroup {
             MainView()
@@ -20,6 +21,7 @@ struct BowdensOwnApp: App {
                 .environmentObject(cart)
                 .environmentObject(guide)
                 .environmentObject(collection)
+                .environmentObject(garage)
         }
     }
 }

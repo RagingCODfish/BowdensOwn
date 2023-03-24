@@ -22,4 +22,5 @@ struct Category: Codable, Identifiable {
     }
     
     static let exampleCategory = Category(name: "Exterior", image: "Exterior", products: [Product.example])
+    
 }

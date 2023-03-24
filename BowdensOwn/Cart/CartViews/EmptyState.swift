@@ -36,6 +36,6 @@ struct EmptyState: View {
 
 struct EmptyState_Previews: PreviewProvider {
     static var previews: some View {
-        EmptyState(message: "Your cart is empty")
+        EmptyState(message: "Your bag is empty")
     }
 }

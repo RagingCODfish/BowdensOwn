@@ -28,7 +28,6 @@ struct AllProductsListView: View {
                                     Text(product.caption)
                                         .font(.caption)
                                         .foregroundColor(.secondary)
-
                         }
                     }
                 }

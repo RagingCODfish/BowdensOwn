@@ -12,41 +12,61 @@ struct GuidesView: View {
     @EnvironmentObject var guideMenu: GuideMenu
 
     var body: some View {
-        NavigationView {
-            VStack {
-                ForEach(guideMenu.sections) { guide in
-                    NavigationLink {
-                        GuideListView(guideCategory: guide)
-                    } label: {
-                        VStack(alignment: .leading) {
-                            Text(guide.name)
-                                .fontWeight(.semibold)
-                                .layoutPriority(1)
-                                .foregroundColor(.primary)
-                            
-                            Group {
-                                if guide.guides.count == 1 {
-                                    Text("\(guide.guides.count) guide")
-                                } else {
-                                    Text("\(guide.guides.count) guides")
-                                }
-                            }
-                            .foregroundColor(.secondary)
-                            .font(.caption)
-                            
-                            Image(systemName: "\(guide.displayImage)")
-                                .resizable()
-                                .scaledToFit()
-                                .frame(width: 250)
-                                .foregroundColor(.primary)
-                        }
-                        
-                    }
+		NavigationStack {
+			VStack {
+					ForEach(guideMenu.sections) { guide in
+						NavigationLink {
+							GuideListView(guideCategory: guide)
+						} label: {
+							VStack {
+								Text("\(guide.name)")
+									.font(.headline)
+									.foregroundColor(.primary)
+									.padding(.top)
+								
+								Image(guide.displayImage)
+									.resizable()
+									.aspectRatio(contentMode: .fit)
+									.cornerRadius(30)
+								
+								Spacer()
+							}
+							.frame(maxWidth: .infinity)
+							.background(
+								RoundedRectangle(cornerRadius: 30, style: .continuous)
+									.fill(LinearGradient(colors: [.blue, .blue.opacity(0.5)], startPoint: .topLeading, endPoint: .bottomTrailing))
+							)
+							.padding()
+						}
+					}
+				}
+            NavigationLink {
+                CarCollectionView()
+            } label: {
+                VStack {
+                    Text("Bowdens Collections")
+                        .font(.headline)
+                        .foregroundColor(.primary)
+                        .padding(.top)
+
+                    Image(systemName: "plus")
+                        .resizable()
+                        .aspectRatio(contentMode: .fit)
+                        .cornerRadius(30)
+
+                    Spacer()
                 }
+                .frame(maxWidth: .infinity)
+                .background(
+                    RoundedRectangle(cornerRadius: 30, style: .continuous)
+                        .fill(LinearGradient(colors: [.blue, .blue.opacity(0.5)], startPoint: .topLeading, endPoint: .bottomTrailing))
+                )
+                .padding()
             }
-            .navigationTitle("Guides")
-            .navigationBarTitleDisplayMode(.automatic)
-        }
+				.padding([.horizontal, .bottom])
+				.navigationTitle("Guides")
+				//            .navigationBarTitleDisplayMode(.automatic)
+		}
     }
 }
 
@@ -54,5 +74,6 @@ struct GuidesView_Previews: PreviewProvider {
     static var previews: some View {
         GuidesView()
             .environmentObject(GuideMenu())
+			.preferredColorScheme(.dark)
     }
 }

@@ -16,7 +16,6 @@ struct ProductRowCardView: View {
                 .resizable()
                 .scaledToFit()
                 .frame(width: 100)
-//                .padding()
             
             VStack(alignment: .leading) {
                 Text(product.name)

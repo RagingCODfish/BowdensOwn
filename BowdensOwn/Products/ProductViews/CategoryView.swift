@@ -10,7 +10,6 @@ import SwiftUI
 struct CategoryView: View {
     @EnvironmentObject var menu: ProductMenu
     @EnvironmentObject var cart: Cart
-    @State private var searchText = ""
     @State private var allProducts = [Product.self]
     
     var columns: [GridItem] {
@@ -18,25 +17,21 @@ struct CategoryView: View {
     }
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ScrollView {
-//                if !searchText.isEmpty {
-//                    AllProductsListView()
-//                } else {
+
                     LazyVGrid(columns: columns) {
                         ForEach(menu.sections) { category in
                             NavigationLink {
                                 ProductsView(category: category)
-                                    
                             } label: {
                                 CategoryCardView(category: category)
-//                            }
                         }
                     }
                 }
             }
             .navigationTitle("Shop")
-            .searchable(text: $searchText)
+
         }
     }
 }

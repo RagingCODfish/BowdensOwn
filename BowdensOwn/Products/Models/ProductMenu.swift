@@ -18,8 +18,9 @@ class ProductMenu: ObservableObject, Codable {
             
             sections = jsonData.sections
             
+            
         } catch {
-            fatalError("I got an error \(error)")
+            fatalError("\(error)")
         }
     }
 }

@@ -9,10 +9,9 @@ import SwiftUI
 
 struct CarCollectionView: View {
     @EnvironmentObject var collection: CarCollectionMenu
-    @State private var showingDetail = false
-//    @State var selectedCar: Car?
+    
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List {
                 ForEach(collection.collection, id: \.self) { car in
                     NavigationLink {
@@ -34,9 +33,6 @@ struct CarCollectionView: View {
                     }
                 }
             }
-//            .sheet(isPresented: $showingDetail) {
-//                CarView(car: selectedCar ?? Car.carExample)
-//            }
             .navigationTitle("Bowdens Collection")
             .navigationBarTitleDisplayMode(.automatic)
             .listStyle(.plain)

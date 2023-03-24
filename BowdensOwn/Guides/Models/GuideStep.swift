@@ -7,9 +7,13 @@
 
 import Foundation
 
-struct GuideStep: Identifiable, Codable, Hashable {
-    var id = UUID()
+struct Paragraph: Codable, Hashable, Equatable {
     let title: String
-    let paragraph: [String]
+    let text: String
     let video: String
+}
+
+struct GuideStep: Identifiable, Codable {
+    var id = UUID()
+    let paragraphs: [Paragraph]
 }

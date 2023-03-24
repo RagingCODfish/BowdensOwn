@@ -6,17 +6,32 @@
 //
 
 import SwiftUI
+import WeatherKit
 
 struct MyGarageView: View {
+    @EnvironmentObject var garage: Garage
     var body: some View {
-        NavigationView {
-            VStack {
-                Button {
-                    EmptyView()
-                } label: {
-                    Text("Go to my products")
+        NavigationStack {
+            List (garage.myItems) { item in
+                Label {
+                    Text(item.name)
+                } icon: {
+                    Image(item.image)
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 100)
                 }
+                    .swipeActions {
+                        Button(role: .destructive) {
+                            withAnimation {
+                                garage.delete(item)
+                            }
+                        } label: {
+                            Label("Delete", systemImage: "trash")
+                        }
+                    }
             }
+            
             .navigationTitle("My Garage")
         }
     }

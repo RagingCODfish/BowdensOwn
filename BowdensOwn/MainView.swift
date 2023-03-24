@@ -12,7 +12,7 @@ struct MainView: View {
     @EnvironmentObject var cart: Cart
     @EnvironmentObject var guideMenu: GuideMenu
     
-    @State private var selection = 2
+    @AppStorage("tabSelection") private var selection = 0
     
     var body: some View {
         TabView(selection: $selection) {
@@ -31,7 +31,7 @@ struct MainView: View {
                     if cart.orderItems.count > 49 {
                         Label("Evergreen", systemImage: "ferry")
                     } else if cart.orderItems.count > 29 {
-                        Label("Cargo Aircraft", systemImage: "airplane.departure")
+                        Label("Cargo Plane", systemImage: "airplane")
                     } else if cart.orderItems.count > 19 {
                         Label("Truck", systemImage: "box.truck")
                     } else if cart.orderItems.count > 9 {

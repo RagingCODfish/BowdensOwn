@@ -27,13 +27,13 @@ struct ProductGridView: View {
                                 .fontWeight(.semibold)
                                 .layoutPriority(1)
                                 .foregroundColor(.primary)
+                                .multilineTextAlignment(.leading)
                                 .padding([.horizontal, .top])
-                            
+
                             Image(product.displayImage)
                                 .resizable()
                                 .scaledToFit()
-                                .padding(.top)
-                            
+                                .padding(.top)                            
                         }
                         .frame(maxWidth: 200)
                         .frame(height: 260)

@@ -8,31 +8,32 @@
 import SwiftUI
 
 struct GuideListView: View {
-    let guideCategory: GuideCategory
-    @State private var showingGuide = false
-    
-
-    
-    let columns: [GridItem] = [GridItem(.flexible()), GridItem(.flexible())]
-    
-    var body: some View {
-        ScrollView {
-            LazyVGrid(columns: columns) {
-                ForEach(guideCategory.guides) { guide in
-                    NavigationLink {
-                            GuideDetailView(guide: guide)
-                    }label: {
-                        GuideCardView(guide: guide)
-                    }
-                }
-            }
-            .padding(.horizontal, 20)
-        }
-    }
+	let guideCategory: GuideCategory
+	
+	var body: some View {
+		List {
+			ForEach(guideCategory.guides) { guide in
+				NavigationLink {
+					GuideDetailView(guide: guide)
+				} label: {
+					HStack {
+						Image(guide.displayImage)
+							.resizable()
+							.scaledToFit()
+							.frame(width: 120)
+							.cornerRadius(10)
+						Text(guide.name)
+					}
+				}
+			}
+			.navigationTitle(guideCategory.name)
+		}
+		.listStyle(.plain)
+	}
 }
 
 struct GuideListView_Previews: PreviewProvider {
-    static var previews: some View {
-        GuideListView(guideCategory: .exampleGuideCategory)
-    }
+	static var previews: some View {
+		GuideListView(guideCategory: .exampleGuideCategory)
+	}
 }

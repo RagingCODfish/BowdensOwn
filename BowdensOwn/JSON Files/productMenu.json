@@ -8,7 +8,7 @@
                 {
                     "id": "108DFC46-C9BE-41F0-92E5-65FC814DC4FA", "name": "Nanolicious Wash",
                     "caption": "OUR DREAM WASH, CREATED FOR THE FUSSIEST FANATICS",
-                    "description": "A couple of years ago we sat down with our chemists and began the wish list for a dream wash. This wash needed to be super lubricating, have amazing cleaning power, gentle on delicate modern paints and hands, be a true protective wash suitable for the Aussie environmental conditions and work with modern nano based paint protection coatings. It took a couple of years to get right, but what we created is one of the best and most unique washes on the planet.",
+                    "description": "A couple of years ago we sat down with our chemists and began the wish list for a dream wash. This wash needed to be super lubricating, have amazing cleaning power, gentle on delicate modern paints and hands, be a true protective wash suitable for the Aussie environmental conditions and work with modern nano based paint protection coatings. It took a couple of years to get right, but what we created is one of the best and most unique washes on the planet.\n\n• Our dream wash, created with the finest modern ingredients available.\n• Adds polymer based protection, to protect from the Aussie suns UV rays.\n• Restores a beautiful glossy shine to your car after each wash.\n• Deep cleaning formula, the most effective we have ever made, that's still safe and gentle on all paint, plastic trims and rubbers.\n• pH neutral, so it won't strip quality waxes, sealants, paint protection coatings, or your hands.\n• Super thick and lubricating suds, that encapsulate dirt and grit to stop it from scratching.\n• Uniquely maintains, rejuvenates and repairs hydrophobicity qualities on nanoparticle based SiO2, \"ceramic\", \"glass\", \"quartz\" and other protective coatings. Even bringing them back from the dead with a few washes.\n• Hydrophilic ingredients means it sheets off faster for better rinsing, with no streaking or oily residues common in other \"protective\" washes.\n• No salt or silicones are used in this formula and it has a healthy dose of anti rust additives, because we love cars.\n• Super concentrated, just 25mls is needed for 10 litres of water. (21 washes in 500mls, 84 in the 2 litre bottle).\n• It's a completely biodegradable and earth friendly formula.\n• Proudly all Australian developed and made as well.",
                     "contents": ["a"],
                     "size": [125, 500, 2000, 5000, 20000],
                     "price": [7.99, 22.99, 64.99, 134.99, 429.99],
@@ -23,7 +23,7 @@
                     "contents": ["a"],
                     "size": [500, 5000],
                     "price": [17.99, 102.99],
-                    "image": ["BOABG500", "BONANO5000"],
+                    "image": ["BOABG500", "BOABG5000"],
                     "displayImage": "BOABG500"
                 },
                 {
@@ -66,16 +66,6 @@
                     "price": [30.99, 71.99, 199.99],
                     "image": ["BOWW2000", "BOWW5000", "BOWW20000"],
                     "displayImage": "BOWW2000"
-                },{
-                    "id": "8F6F0B48-F8BC-46C3-B2D1-F61AD3B11884",
-                    "name": "Summer Edition Wax Wash",
-                    "caption": "Smells and feels like a beautiful tropical Qld Summer!",
-                    "description": "Much loved by many car fanatics, our special edition Summer Wax Wash is a Carnauba infused wash, created for the time poor or lazy enthusiast. This custom formulation is beautifully easy to use, super lubricating and deep cleans as well as our original Wax Wash, but has a touch more Carnauba for extra shine and protection, as well as some cool anti-rust additives and UV protectants to deal with our Aussie Summer conditions.",
-                    "contents": ["a"],
-                    "size": [500],
-                    "price": [9.99],
-                    "image": ["BOSUMMERWW500"],
-                    "displayImage": "BOSUMMERWW500"
                 },{
                     "id": "DB83CF39-76F2-4620-823E-F900E34761C1",
                     "name": "Happy Ending",
@@ -145,13 +135,13 @@
                     "size": [125, 500, 5000],
                     "price": [11.99, 28.99, 179.99],
                     "image": ["BOABC125","BOABC500","BOABC5000"],
-                    "displayImage": "500"
+                    "displayImage": "BOABC500"
                 },{
                     "id": "60D9B428-AD1F-474F-AE67-8B02517C998B",
                     "name": "Flash Prep",
-                    "caption": "a",
+                    "caption": "Flash Prep is a powerful and effective way to prepare surfaces for waxes, sealants, and other last step products. It is safe for all surfaces and leaves no residue.",
                     "contents": ["a"],
-                    "description": "a",
+                    "description": "Flash Prep is a surface preparation spray to remove older waxes, silicones, fillers and oils from the surface, prior to applying last step products such as; modern waxes, sealants, trim restorers and even ceramic coatings. This step will improve your sealant's longevity on the surface. It uses a strong and effective formula that leaves zero residue and is safe for all surfaces including paint, plastics, headlights, glass, chrome and more.",
                     "size": [125, 500, 5000],
                     "price": [7.99, 20.99, 184.99],
                     "image": ["BOFPREP125","BOFPREP500","BOFPREP5000"],
@@ -159,7 +149,7 @@
                 },{
                     "id": "7DA0AA52-DFAC-418C-8612-9D9A07B15680",
                     "name": "Beaut Beads Paste Wax",
-                    "caption": "a",
+                    "caption": "Beaut Beads is a hand-crafted paste wax that was developed by our in-house chemist over 24 months. It is perfect for car enthusiasts who love the \"romance\" of using a quality paste wax. It remedies many age-old issues and is the result of our passion for cars.",
                     "description": "We hand-crafted this quality paste wax to show enthusiasts that waxes are far from dead. Developed by our in-house chemist who we tormented with 57 versions over 24 months (yep, some car resto’s are quicker), Beaut Beads is our modern Aussie take on a classic favourite, remedying many age-old paste wax issues. This wax has been created for true car fanatics who love the hands-on “romance” of using a quality paste wax and we’re super proud of the end result.",
                     "contents": ["a"],
                     "size": [1],
@@ -224,8 +214,8 @@
                     "contents": ["a"],
                     "size": [1],
                     "price": [51.99],
-                    "image": ["BOMRBLACK1"],
-                    "displayImage": "BOMRBLACK1"
+                    "image": ["BOMRBLACK"],
+                    "displayImage": "BOMRBLACK"
                 },{
                     "id": "E7DED951-1ABC-47E5-ABA1-114ABB1C4567",
                     "name": "Wheely Clean",
@@ -304,8 +294,8 @@
                     "contents": ["a"],
                     "size": [1],
                     "price": [36.99],
-                    "image": ["BOSSTUFF1"],
-                    "displayImage": "BOSSTUFF1"
+                    "image": ["BOSSTUFF250"],
+                    "displayImage": "BOSSTUFF250"
                 },{
                     "id": "E3DFA83B-5FDF-4559-ABE2-A29C5AA58FFC",
                     "name": "Sublime Clean",
@@ -366,14 +356,15 @@
             "image": "Interior",
             "products": [
                 {
-                    "id": "92A5100F-B681-4011-867D-3D40BC960998", "name": "Leather Love",
+                    "id": "92A5100F-B681-4011-867D-3D40BC960998",
+                    "name": "Leather Love",
                     "caption": "Gently cleans and conditions leather in one quick step, restoring its natural feel and sheen",
                     "description": "We know your leather needs our love. It took us a couple of years to create and perfect this great leather cleaner/conditioner. It's made to specifically look after all modern polyurethane, top coated leather. If your car is made after 1984, it will have this leather. Use it and see the difference great car care can make.",
                     "contents": ["a"],
-                    "size": [125, 500, 2000, 5000, 20000],
-                    "price": [7.99, 22.99, 64.99, 134.99, 429.99],
-                    "image": ["BOLL125","BOLL500","BOLL2000","BOLL5000","BOLL20000"],
-                    "displayImage": "BOLL500"
+                    "size": [125, 500, 5000],
+                    "price": [7.99, 22.99, 134.99],
+                    "image": ["BOLL2125","BOLL2500","BOLL25000"],
+                    "displayImage": "BOLL2500"
                 },
                 {
                     "id": "0D851C66-82CD-49EE-A820-77F8B741AE5E",
@@ -483,7 +474,7 @@
                     "size": [1],
                     "price": [15.99],
                     "image": ["BOMUFF"],
-                    "displayImage": ""
+                    "displayImage": "BOMUFF"
                     
                 },{
                     "id": "197BAC4C-C8EC-4E44-8E76-86B55281F40B",
@@ -494,7 +485,7 @@
                     "size": [1],
                     "price": [22.99],
                     "image": ["BOSHAG"],
-                    "displayImage": ""
+                    "displayImage": "BOSHAG"
                     
                 },{
                     "id": "4C14C56F-31FA-4A97-A34F-8BDA9CE2B984",
@@ -505,7 +496,7 @@
                     "size": [1],
                     "price": [39.99],
                     "image": ["BOWPILLOW"],
-                    "displayImage": ""
+                    "displayImage": "BOWPILLOW"
                     
                 },{
                     "id": "853D38B4-4AFE-40C2-B7DD-38822F42E015",
@@ -516,7 +507,7 @@
                     "size": [1],
                     "price": [30.99],
                     "image": ["BOSHAGM"],
-                    "displayImage": ""
+                    "displayImage": "BOSHAGM"
                     
                 },{
                     "id": "D44A8D84-77DF-4D0C-B913-5B2912D1FF79",
@@ -527,7 +518,7 @@
                     "size": [1],
                     "price": [15.99],
                     "image": ["BOWM"],
-                    "displayImage": ""
+                    "displayImage": "BOWM"
                     
                 },{
                     "id": "8D6875E9-D189-433D-BF0F-EF4F3BB9C422",
@@ -538,7 +529,7 @@
                     "size": [1],
                     "price": [39.99],
                     "image": ["BOSUCKER"],
-                    "displayImage": ""
+                    "displayImage": "BOSUCKER"
                     
                 },{
                     "id": "2D3F150A-A2A8-4057-953A-C99854A875AC",
@@ -549,7 +540,7 @@
                     "size": [1],
                     "price": [16.99],
                     "image": ["BOC"],
-                    "displayImage": ""
+                    "displayImage": "BOC"
                     
                 },{
                     "id": "056B3B90-763A-427F-95C2-03F32347E23F",
@@ -560,7 +551,7 @@
                     "size": [1],
                     "price": [23.99],
                     "image": ["BOSSC"],
-                    "displayImage": ""
+                    "displayImage": "BOSSC"
                     
                 },{
                     "id": "F1BDDCD3-0E30-43C3-BF35-DA8D4B3A212A",
@@ -571,51 +562,7 @@
                     "size": [1],
                     "price": [12.99],
                     "image": ["BOGC"],
-                    "displayImage": ""
-                    
-                },{
-                    "id": "D5D77E4D-5D4F-48A2-8577-C1BD092283BA",
-                    "name": "Circle Work - Gulf Colours 1",
-                    "caption": "a",
-                    "description": "To get beautiful looking paint, you need the right tools. We custom made this applicator mitt after our experiences in detailing many thousands of cars. It’s the right size, has the ideal microfibre material, a new non-scratch edging and that nice foam inside that makes sure you don’t get any finger pressure points, ensuring a perfect even surface to apply any cleanser, polish or wax to your car. With the new elastic back you won’t drop it either! You can even use it to apply interior cleansers and protectants.",
-                    "contents": ["a"],
-                    "size": [1],
-                    "price": [17.99],
-                    "image": ["BOAMY"],
-                    "displayImage": ""
-                    
-                },{
-                    "id": "D2AA723C-AB50-46B7-A8BF-7D913C654B77",
-                    "name": "BIG SOFTIE - GULF COLOURS",
-                    "caption": "a",
-                    "description": "If you’re after a decent sized and super effective quality microfibre cloth, this is made for you. The Big Softie is a short pile, feather soft ultra microfibre, ideal for removing wax, cleanser, polish, detailing sprays and glass cleaners from delicate surfaces. Our new micro-soft edges are soft and gentle for a perfect finish, without scratches and swirls!",
-                    "contents": ["a"],
-                    "size": [1],
-                    "price": [14.99],
-                    "image": ["BOBCY"],
-                    "displayImage": ""
-                    
-                },{
-                    "id": "F9931465-8927-4620-9347-FDD3F1DB806C",
-                    "name": "Circle Work",
-                    "caption": "a",
-                    "description": "To get beautiful looking paint, you need the right tools. We custom made this applicator mitt after our experiences in detailing many thousands of cars. It’s the right size, has the ideal microfibre material, a new non-scratch edging and that nice foam inside that makes sure you don’t get any finger pressure points, ensuring a perfect even surface to apply any cleanser, polish or wax to your car. With the new elastic back you won’t drop it either! You can even use it to apply interior cleansers and protectants.",
-                    "contents": ["a"],
-                    "size": [1],
-                    "price": [17.99],
-                    "image": ["BOAMP"],
-                    "displayImage": ""
-                    
-                },{
-                    "id": "D1088E67-E5CA-4F4D-A1CD-75D1A9B10830",
-                    "name": "Big Softie",
-                    "caption": "",
-                    "description": "If you’re after a decent sized and super effective quality microfibre cloth, this is made for you. The Big Softie is a short pile, feather soft ultra microfibre, ideal for removing wax, cleanser, polish, detailing sprays and glass cleaners from delicate surfaces. Our new micro-soft edges are soft and gentle for a perfect finish, without scratches and swirls!",
-                    "contents": ["a"],
-                    "size": [1],
-                    "price": [14.99],
-                    "image": ["BOBCP"],
-                    "displayImage": ""
+                    "displayImage": "BOGC"
                     
                 },{
                     "id": "5F17E5D1-87B2-4531-A874-379D7B7F4D46",
@@ -626,7 +573,51 @@
                     "size": [1],
                     "price": [23.99],
                     "image": ["BODBEAR"],
-                    "displayImage": ""
+                    "displayImage": "BODBEAR"
+                    
+                },{
+                    "id": "F9931465-8927-4620-9347-FDD3F1DB806C",
+                    "name": "Circle Work",
+                    "caption": "a",
+                    "description": "To get beautiful looking paint, you need the right tools. We custom made this applicator mitt after our experiences in detailing many thousands of cars. It’s the right size, has the ideal microfibre material, a new non-scratch edging and that nice foam inside that makes sure you don’t get any finger pressure points, ensuring a perfect even surface to apply any cleanser, polish or wax to your car. With the new elastic back you won’t drop it either! You can even use it to apply interior cleansers and protectants.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": ["BOAMP"],
+                    "displayImage": "BOAMP"
+                    
+                },{
+                    "id": "D5D77E4D-5D4F-48A2-8577-C1BD092283BA",
+                    "name": "Circle Work - Gulf Colours",
+                    "caption": "a",
+                    "description": "To get beautiful looking paint, you need the right tools. We custom made this applicator mitt after our experiences in detailing many thousands of cars. It’s the right size, has the ideal microfibre material, a new non-scratch edging and that nice foam inside that makes sure you don’t get any finger pressure points, ensuring a perfect even surface to apply any cleanser, polish or wax to your car. With the new elastic back you won’t drop it either! You can even use it to apply interior cleansers and protectants.",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [17.99],
+                    "image": ["BOAMY"],
+                    "displayImage": "BOAMY"
+                    
+                },{
+                    "id": "D1088E67-E5CA-4F4D-A1CD-75D1A9B10830",
+                    "name": "Big Softie",
+                    "caption": "",
+                    "description": "If you’re after a decent sized and super effective quality microfibre cloth, this is made for you. The Big Softie is a short pile, feather soft ultra microfibre, ideal for removing wax, cleanser, polish, detailing sprays and glass cleaners from delicate surfaces. Our new micro-soft edges are soft and gentle for a perfect finish, without scratches and swirls!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": ["BOBCP"],
+                    "displayImage": "BOBCP"
+                    
+                },{
+                    "id": "D2AA723C-AB50-46B7-A8BF-7D913C654B77",
+                    "name": "Big Softie - Gulf Colours",
+                    "caption": "a",
+                    "description": "If you’re after a decent sized and super effective quality microfibre cloth, this is made for you. The Big Softie is a short pile, feather soft ultra microfibre, ideal for removing wax, cleanser, polish, detailing sprays and glass cleaners from delicate surfaces. Our new micro-soft edges are soft and gentle for a perfect finish, without scratches and swirls!",
+                    "contents": ["a"],
+                    "size": [1],
+                    "price": [14.99],
+                    "image": ["BOBCY"],
+                    "displayImage": "BOBCY"
                     
                 },{
                     "id": "3F3D8501-D5B1-4F12-9B94-5B9112243B40",
@@ -637,7 +628,7 @@
                     "size": [1],
                     "price": [19.99],
                     "image": ["BOINTA"],
-                    "displayImage": ""
+                    "displayImage": "BOINTA"
                     
                 },{
                     "id": "860009A9-0E41-48D0-ACE4-BD2E32D2C0A1",
@@ -648,7 +639,7 @@
                     "size": [1],
                     "price": [15.99],
                     "image": ["BODADDY"],
-                    "displayImage": ""
+                    "displayImage": "BODADDY"
                     
                 },{
                     "id": "8BC53ABA-5279-4FEA-AD10-0A6F046D2AD2",
@@ -659,7 +650,7 @@
                     "size": [1],
                     "price": [12.99],
                     "image": ["BOSBEAR"],
-                    "displayImage": ""
+                    "displayImage": "BOSBEAR"
                     
                 },{
                     
@@ -671,7 +662,7 @@
                     "size": [1],
                     "price": [25.99],
                     "image": ["BODD"],
-                    "displayImage": ""
+                    "displayImage": "BODD"
                     
                 },{
                     
@@ -683,7 +674,7 @@
                     "size": [1],
                     "price": [14.99],
                     "image": ["BODEBUG"],
-                    "displayImage": ""
+                    "displayImage": "BODEBUG"
                     
                 },{
                     
@@ -694,8 +685,8 @@
                     "contents": ["a"],
                     "size": [125, 1000, 5000, 20000],
                     "price": [9.99, 24.99, 79.99, 243.99],
-                    "image": ["BOMWASH"],
-                    "displayImage": ""
+                    "image": ["BOMWASH1000"],
+                    "displayImage": "BOMWASH1000"
                     
                 }
             ]
@@ -707,7 +698,6 @@
             "image": "Value Packs",
             "products": [
                 {
-                    
                     "id": "28B0E7BB-4CD7-4CDD-B925-2F74594908F6",
                     "name": "The Beautiful Beads Pack",
                     "caption": "a",

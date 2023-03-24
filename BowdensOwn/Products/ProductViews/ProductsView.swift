@@ -10,8 +10,14 @@ import SwiftUI
 struct ProductsView: View {
     let category: Category
     @AppStorage("showingGrid") private var showingGrid = false
+    @State private var searchText = ""
+    
+    var columns: [GridItem] {
+        [GridItem(.adaptive(minimum: 170, maximum: 170))]
+    }
     
     var body: some View {
+         
         VStack {
             VStack {
                 if showingGrid {
@@ -32,6 +38,15 @@ struct ProductsView: View {
                 }
             }
             .navigationTitle("Shop")
+            .navigationViewStyle(.stack)
+        }
+    }
+    
+    var searchResults: [Product] {
+        if searchText.isEmpty {
+            return category.products
+        } else {
+            return category.products.filter { $0.name.contains(searchText) }
         }
     }
 }

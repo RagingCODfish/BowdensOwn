@@ -10,45 +10,62 @@ import SwiftUI
 import WebKit
 
 struct GuideDetailView: View {
+    @Environment(\.dynamicTypeSize) var sizeCategory
     let guide: Guide
+    @State private var pageIndex = 0
+    @State private var videoString = ""
     var body: some View {
-            ScrollView {
-                ForEach(guide.paragraph, id: \.self) { step in
-                    VStack(alignment: .leading) {
-                        Text(step.title)
-                            .font(.title).bold()
-                            .padding(.horizontal)
-                            
-                        ForEach(step.paragraph, id: \.self) { paragraph in
-                                    Text(paragraph)
-                                        .font(.body)
-  
-                            }
-                            .padding()
-                            .frame(maxWidth: .infinity, alignment: .leading)
-                            .multilineTextAlignment(.leading)
-                            .background(Color(.systemTeal).opacity(0.3))
-                            .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 20, style: .continuous))
-                            .padding(.horizontal)
-                        
 
-//                        if !step.video.isEmpty {
-//                            VideoView(videoID: step.video)
-//                                .frame(width: 360, height: 300)
-//                                .cornerRadius(12)
-//                                .padding(.horizontal, 24)
-//                        }
+        VStack {
+            ForEach(guide.paragraph) { step in
+                if videoString.isEmpty {
+                    RoundedRectangle(cornerRadius: 10)
+                        .frame(height: 195)
+                        .foregroundColor(.blue)
+                        .padding(.horizontal, 24)
+                } else {
+                    VideoView(videoID: videoString)
+                        .frame(maxHeight: 195.0)
+                        .cornerRadius(12)
+                        .padding(.horizontal, 24)
+                }
+
+                TabView(selection: $pageIndex) {
+                    ForEach(step.paragraphs.indices, id: \.self) { index in
+                        ScrollView {
+                            VStack {
+                                Text(step.paragraphs[index].text)
+                                    .dynamicTypeSize(...DynamicTypeSize.accessibility2)
+                            }
+                            .tag(index)
+                        }
+                        .padding(.bottom, 45)
                     }
-                    .padding()
+                }
+                .padding()
+                .onAppear {
+                    if pageIndex == 0 {
+                        videoString = step.paragraphs[0].video
+                    }
+                }
+                .onChange(of: pageIndex) { newValue in
+                    videoString = step.paragraphs[newValue].video
+                    print("\(pageIndex): \(videoString)")
                 }
             }
+            .tabViewStyle(.page(indexDisplayMode: .automatic))
             .navigationTitle(guide.name)
             .navigationBarTitleDisplayMode(.inline)
+        }
     }
 }
+
+
+
 
 struct GuideDetailView_Previews: PreviewProvider {
     static var previews: some View {
         GuideDetailView(guide: .exampleGuide)
+            .preferredColorScheme(.dark)
     }
 }
